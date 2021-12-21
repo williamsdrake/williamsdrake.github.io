@@ -1,3 +1,10 @@
+- id: doi:10.1016/j.xpro.2021.100908
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166721006146-fx1_lrg.jpg
+  date: 2021-12-17
+  tags:
+    - single cell
+    - cell isolation
+    - immunology
 - id: doi:10.1016/j.cell.2021.05.013
   image: https://publons.com/media/thumbs/journal/logos/22de2414-0b91-4060-81c2-e0d80647d1cd.png.200x200_q95_detail_letterbox_upscale.png
   date: 2021-6-14
