@@ -2,14 +2,13 @@
   image: https://pbs.twimg.com/profile_images/1225089025129644032/TBdQps0G_400x400.jpg
   date: 2021-12-17
   tags:
-    - single cell
-    - cell isolation
+    - single cell isolation
     - immunology
 - id: doi:10.1016/j.cell.2021.05.013
   image: https://publons.com/media/thumbs/journal/logos/22de2414-0b91-4060-81c2-e0d80647d1cd.png.200x200_q95_detail_letterbox_upscale.png
   date: 2021-6-14
   tags:
-    - single cell RNA sequencing
+    - scRNA seq
     - oral atlas
     - periodontitis
   extra-links:
@@ -27,7 +26,7 @@
   tags:
     - AIRE-deficiency
     - interferonopathy
-    - mucosal immunology
+    - immunology
 - id: doi:10.1038/s41586-020-2745-3
   image: https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg
   date: 2020-9-23
