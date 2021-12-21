@@ -6,24 +6,6 @@ title: Home
 
 Welcome to my website. Here you can find some of the things I've been up to scientifically.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
-
 {% include section.html full=true %}
 
 {% include banner.html image="images/banner.jpg" %}
@@ -36,7 +18,7 @@ Welcome to my website. Here you can find some of the things I've been up to scie
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-[See what we've published &nbsp;→](research)
+[See what I've published &nbsp;→](research)
 {:.center}
 {% endcapture %}
 
