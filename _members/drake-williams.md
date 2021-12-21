@@ -5,7 +5,6 @@ description: Dentist Scientist
 role: Clinical Research Fellow
 aliases:
   - Drake Winslow Williams
-  - Drake
 links:
   email: drakewilliams@gmail.com
 ---
