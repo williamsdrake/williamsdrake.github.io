@@ -4,13 +4,15 @@
   tags:
     - single cell isolation
     - immunology
+    - resource
 - id: doi:10.1016/j.cell.2021.05.013
-  image: https://publons.com/media/thumbs/journal/logos/22de2414-0b91-4060-81c2-e0d80647d1cd.png.200x200_q95_detail_letterbox_upscale.png
+  image: https://pbs.twimg.com/profile_images/1220389237218009088/8dRI37l__400x400.jpg
   date: 2021-6-14
   tags:
     - scRNA seq
     - oral atlas
     - periodontitis
+    - resource
   extra-links:
     - type: preprint
       link: https://www.biorxiv.org/content/10.1101/2021.04.06.438702v1
@@ -21,16 +23,79 @@
       link: https://oral.cellatlas.io/
       text: Interactive data viewer
 - id: doi:10.1126/science.aay5731
-  image: https://www.digital-science.com/wp-content/uploads/2017/03/tumblr_inline_onemlhvtDL1qk1s0s_1280.png
+  image: https://pbs.twimg.com/profile_images/1001918231752429568/wUNPvDdW_400x400.jpg
   date: 2021-1-15
   tags:
     - AIRE-deficiency
     - interferonopathy
     - immunology
 - id: doi:10.1038/s41586-020-2745-3
-  image: https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg
+  image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
   date: 2020-9-23
   tags:
     - maternal microbiome
     - fetal neurodevelopment
     - metabolites
+- id: doi:10.1177/0022034520908594
+  image: https://pbs.twimg.com/profile_images/1284227457621667840/E07VvGR2_400x400.jpg
+  date: 2020-2-28
+  tags:
+    - MRONJ
+    - microbiome
+    - periodontitis
+    - bone
+- id: doi:10.1128/MRA.01481-18
+  image: https://pbs.twimg.com/profile_images/1270960125826629638/Z1uI284T_400x400.jpg
+  date: 2019-1-10
+  tags:
+    - K mycobacteriophage
+    - sequencing
+    - resource
+- id: doi:10.1016/j.ajpath.2018.06.019
+  image: https://pbs.twimg.com/profile_images/3662961574/ea4e8362c29fd6c56404971e1b14e649_400x400.jpeg
+  date: 2018-7-27
+  tags:
+    - MRONJ
+    - periodontitis
+    - bone
+- id: doi:10.1002/jbmr.2985
+  image: https://pbs.twimg.com/profile_images/1165660149/58711_107161329343674_100001494229506_54793_5219834_n_400x400.jpg
+  date: 2016-8-27
+  tags: 
+    - MRONJ
+    - IL36
+    - collagen
+    - bone
+- id: doi:10.1111/acel.12364
+  image: https://www.fusion-conferences.com/images/_uploads/Aging_Cell_-_Logo.jpg
+  tags:
+    - aging
+    - senescence
+    - p53
+    - epigenetics
+- id: doi:10.1016/j.ajpath.2014.07.010
+  image: https://pbs.twimg.com/profile_images/3662961574/ea4e8362c29fd6c56404971e1b14e649_400x400.jpeg
+  tags:
+    - MRONJ
+    - bone
+    - RANKL
+- id: doi:10.1016/j.joen.2013.06.004
+  image: https://img4.luminarypodcasts.com/v1/podcast/3e60410e-7920-4018-aec9-ff7a641fc867/default/h_500,w_500/image/s--x9f_WYIi--/aHR0cDovL3d3dy5qZW5kb2Rvbi5jb20vcGIvYXNzZXRzL3Jhdy9IZWFsdGglMjBBZHZhbmNlL2pvdXJuYWxzL2pvZW4vam9lbl9hdWRpby5qcGc=.jpg
+  tags:
+    - HEMA
+    - wound healing
+    - dental pulp stem cells
+- id: doi:10.1016/j.joen.2012.09.006
+  image: https://img4.luminarypodcasts.com/v1/podcast/3e60410e-7920-4018-aec9-ff7a641fc867/default/h_500,w_500/image/s--x9f_WYIi--/aHR0cDovL3d3dy5qZW5kb2Rvbi5jb20vcGIvYXNzZXRzL3Jhdy9IZWFsdGglMjBBZHZhbmNlL2pvdXJuYWxzL2pvZW4vam9lbl9hdWRpby5qcGc=.jpg
+  tags:
+    - Camphorquinone
+    - dental pulp stem cells
+    - wound healing
+- id: doi:10.1177/0022034511402995
+  image: https://pbs.twimg.com/profile_images/1284227457621667840/E07VvGR2_400x400.jpg
+  tags:
+    - bisphosphonate
+    - senescence
+    - oral fibroblasts
+    
+    
