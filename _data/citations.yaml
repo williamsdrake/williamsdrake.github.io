@@ -48,3 +48,78 @@
   - type: source
     link: https://oral.cellatlas.io/
     text: Interactive data viewer
+- id: doi:10.1126/science.aay5731
+  title: Aberrant type 1 immunity drives susceptibility to mucosal fungal infections
+  authors:
+  - Timothy J. Break
+  - Vasileios Oikonomou
+  - Nicolas Dutzan
+  - Jigar V. Desai
+  - Marc Swidergall
+  - Tilo Freiwald
+  - Daniel Chauss
+  - Oliver J. Harrison
+  - Julie Alejo
+  - Drake W. Williams
+  - Stefania Pittaluga
+  - Chyi-Chia R. Lee
+  - Nicolas Bouladoux
+  - Muthulekha Swamydas
+  - Kevin W. Hoffman
+  - Teresa Greenwell-Wild
+  - Vincent M. Bruno
+  - Lindsey B. Rosen
+  - Wint Lwin
+  - Andy Renteria
+  - Sergio M. Pontejo
+  - John P. Shannon
+  - Ian A. Myles
+  - Peter Olbrich
+  - "Elise M. N. Ferr\xE9"
+  - Monica Schmitt
+  - Daniel Martin
+  - Daniel L. Barber
+  - Norma V. Solis
+  - Luigi D. Notarangelo
+  - David V. Serreze
+  - Mitsuru Matsumoto
+  - Heather D. Hickman
+  - Philip M. Murphy
+  - Mark S. Anderson
+  - Jean K. Lim
+  - Steven M. Holland
+  - Scott G. Filler
+  - Behdad Afzali
+  - Yasmine Belkaid
+  - Niki M. Moutsopoulos
+  - Michail S. Lionakis
+  - ' '
+  publisher: Science
+  date: '2021-01-15'
+  link: https://doi.org/ghzfr2
+  image: https://www.digital-science.com/wp-content/uploads/2017/03/tumblr_inline_onemlhvtDL1qk1s0s_1280.png
+  tags:
+  - AIRE-deficiency
+  - interferonopathy
+  - mucosal immunology
+- id: doi:10.1038/s41586-020-2745-3
+  title: The maternal microbiome modulates fetal neurodevelopment in mice
+  authors:
+  - Helen E. Vuong
+  - Geoffrey N. Pronovost
+  - Drake W. Williams
+  - Elena J. L. Coley
+  - Emily L. Siegler
+  - Austin Qiu
+  - Maria Kazantsev
+  - Chantel J. Wilson
+  - Tomiko Rendon
+  - Elaine Y. Hsiao
+  publisher: Nature
+  date: '2020-09-23'
+  link: https://doi.org/gj29x8
+  image: https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg
+  tags:
+  - maternal microbiome
+  - fetal neurodevelopment
+  - metabolites
