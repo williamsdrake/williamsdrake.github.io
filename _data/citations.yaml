@@ -1,5 +1,19 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1016/j.xpro.2021.100908
+  title: Dissociation of human oral mucosal tissue for single-cell applications
+  authors:
+  - Teresa Greenwell-Wild
+  - Drake Winslow Williams
+  - Niki Maria Moutsopoulos
+  publisher: STAR Protocols
+  date: 1900-1-1
+  link: https://doi.org/gntwq7
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166721006146-fx1_lrg.jpg
+  tags:
+  - single cell
+  - cell isolation
+  - immunology
 - id: doi:10.1016/j.cell.2021.05.013
   title: Human oral mucosa cell atlas reveals a stromal-neutrophil axis regulating
     tissue immunity
