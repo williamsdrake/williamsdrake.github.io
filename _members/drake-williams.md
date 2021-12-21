@@ -1,8 +1,8 @@
 ---
 name: Drake Williams
 image: images/drake.jpg
-description: Dentist Scientist
-role: Clinical Research Fellow
+description: Clinical Research Fellow
+role: postdoc
 aliases:
   - Drake Winslow Williams
 links:
