@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+Our work is made possible by funding from the following organizations.
 {:.center}
 
 {%
