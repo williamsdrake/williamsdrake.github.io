@@ -5,6 +5,8 @@ description: Clinical Research Fellow
 role: postdoc
 aliases:
   - Drake Winslow Williams
+  - Drake W. Williams
+  - Drake Williams
 links:
   email: drakewilliams@gmail.com
 ---
