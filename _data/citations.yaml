@@ -11,8 +11,7 @@
   link: https://doi.org/gntwq7
   image: https://pbs.twimg.com/profile_images/1225089025129644032/TBdQps0G_400x400.jpg
   tags:
-  - single cell
-  - cell isolation
+  - single cell isolation
   - immunology
 - id: doi:10.1016/j.cell.2021.05.013
   title: Human oral mucosa cell atlas reveals a stromal-neutrophil axis regulating
@@ -36,7 +35,7 @@
   link: https://doi.org/gk9ngf
   image: https://publons.com/media/thumbs/journal/logos/22de2414-0b91-4060-81c2-e0d80647d1cd.png.200x200_q95_detail_letterbox_upscale.png
   tags:
-  - single cell RNA sequencing
+  - scRNA seq
   - oral atlas
   - periodontitis
   extra-links:
@@ -101,7 +100,7 @@
   tags:
   - AIRE-deficiency
   - interferonopathy
-  - mucosal immunology
+  - immunology
 - id: doi:10.1038/s41586-020-2745-3
   title: The maternal microbiome modulates fetal neurodevelopment in mice
   authors:
