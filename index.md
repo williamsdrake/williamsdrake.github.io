@@ -6,7 +6,7 @@ title: Home
 
 Welcome to my website. Here you can find some of the things I've been up to scientifically.
 
-{% include section.html full=true %}
+<!---{% include section.html full=true %}-->
 
 {% include banner.html image="images/banner.jpg" %}
 
