@@ -1,6 +1,6 @@
 ---
 name: Drake Williams
-image: images/drake.jpg
+image: images/headshot_Drake.tif
 description: Clinical Research Fellow
 role: postdoc
 aliases:
