@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Host-microbe interactions and oral mucosal immunity
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Welcome to my website. Here you can find some of the things I've been up to scientifically.
 
 {%
   include link.html
