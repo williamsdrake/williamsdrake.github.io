@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Test
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: My science
+description: A lab website
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,12 +10,10 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: drakewilliams@gmail.com
+  google-scholar: 6SmnW4IAAAA
+  github: williamsdrake
+  twitter: @drake_dds
 
 ### advanced settings
 
