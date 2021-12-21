@@ -21,3 +21,17 @@
     - type: source
       link: https://oral.cellatlas.io/
       text: Interactive data viewer
+- id: doi:10.1126/science.aay5731
+  image: https://www.digital-science.com/wp-content/uploads/2017/03/tumblr_inline_onemlhvtDL1qk1s0s_1280.png
+  date: 2021-1-15
+  tags:
+    - AIRE-deficiency
+    - interferonopathy
+    - mucosal immunology
+- id: doi:10.1038/s41586-020-2745-3
+  image: https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg
+  date: 2020-9-23
+  tags:
+    - maternal microbiome
+    - fetal neurodevelopment
+    - metabolites
