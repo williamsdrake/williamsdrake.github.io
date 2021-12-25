@@ -5,7 +5,7 @@ nav:
   tooltip: Current Research
 ---
 
-# <i class="fas fa-microscope"></i>Research Areas&emsp;<i class="fas fa-flask"></i>
+# <i class="fas fa-microscope"></i>Research Areas&ensp;&nbsp;<i class="fas fa-flask"></i>
 
 {% include section.html %}
 
