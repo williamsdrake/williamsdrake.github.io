@@ -5,9 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# <i class="fas fa-microscope"></i>Research
-
-I am primarily interested in studying host-microbe interactions at the oral barrier and distal sites.
+# <i class="fas fa-microscope"></i>Publications
 
 {% include section.html %}
 
