@@ -23,7 +23,7 @@ Using single-cell RNA sequencing, I have
   include feature.html
   image="images/photo.jpg"
   link="team"
-  headline="Our Team"
+  headline=""
   text=text
 %}
 
