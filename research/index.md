@@ -8,14 +8,13 @@ nav:
 # <i class="fas fa-microscope"></i>Research Areas&ensp;&nbsp;<i class="fas fa-flask"></i>
 
 {% include section.html %}
-
-{% capture text %}
 ## <i class="fas fa-laptop-medical"> Understanding barrier tissue immunity with systems biology
+{% capture text %}
 Using single-cell RNA sequencing, I have 
 - created a transcriptional atlas of two distinct oral mucosal sites in health and in the common inflammatory disease periodontitis 
 - discovered inflammatory signatures that define stromal populations in health
 - identified novel stromal-immune interactions that potentially drive oral mucosal inflammation in disease
-[Read more here](https://doi.org/10.1016/j.cell.2021.05.013)
+  [Read more here](https://doi.org/10.1016/j.cell.2021.05.013)
 {:.center}
 {% endcapture %}
 
