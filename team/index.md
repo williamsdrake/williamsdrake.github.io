@@ -20,6 +20,8 @@ This page will be updated with team members when I start my own lab
 
 {:.center}
 
+{% include section.html dark=true%}
+
 ## Join
 
 This page will be updated with details when I start my own lab
