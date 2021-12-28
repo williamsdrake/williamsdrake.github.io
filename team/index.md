@@ -20,14 +20,14 @@ This page will be updated with team members when I start my own lab
 
 {:.center}
 
-<!-- {% include section.html dark=true%}
+<!--- {% include section.html dark=true%}
 
 "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."  
 ??? Marie Curie
 
 {% include section.html %}
--->
-<!--- ## Join
+
+## Join
 
 #### Post Dogtoral Researcher
 
