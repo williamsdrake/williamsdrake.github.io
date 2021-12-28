@@ -22,6 +22,7 @@ Mapping the biological tissues that make up the human body at a single cell leve
   text=text
 %}
 
+{% include section.html %}
 ## <i class="fas fa-bacteria"> Tracking host-microbe interactions
 {% capture text %}
 The oral cavity houses one of the most diverse microbial niches in the human body containing over 700 bacterial species. However, low abundance oral-associated microbes like *Aggregatibacter actinomycetemcomitans* have been implicated in the etiopathogenesis of aggressive periodontal disease in adolescents. Disease leads to massive increases in tissue and lymph-associated T cells, which begs the question: do microbiota-specific T cells mediate pathogenic responses to pathobionts? I am currently developing tools to track and assess microbe-specific T cell responses in animal models of periodontitis. 
@@ -35,6 +36,7 @@ The oral cavity houses one of the most diverse microbial niches in the human bod
   text=text
 %}
 
+{% include section.html %}
 ## <i class="fas fa-syringe"> Immunity and fungal infection
 {% capture text %}
 Type 17 responses have been shown to play a pivotal role in several models of mucosal infection. However, a collaborator found that chronic mucocutaneous candidiasis (CMC) caused by loss-of-function mutations in the autoimmune regulator (*Aire*) gene did not lead to altered type 17 responses in the skin or gut of *Aire* knockout (KO) mice. I helped confirm that type 17 responses were intact in the oral mucosa of *Aire* KO mice. Instead, we found that CMC was caused by T cell-dependent interferonopathy in the mucosa of *Aire* KO mice, which was corroborated in a patient cohort with *Aire* loss-of-function. Using single cell sequencing, I am assessing how patients with a gain-of-function mutation in *Stat1*, which causes CMC, alters cell composition and gene expression at the oral barrier.  
