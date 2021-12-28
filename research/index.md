@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-microscope"></i>Research Areas&ensp;&nbsp;<i class="fas fa-flask"></i>
 
 {% include section.html %}
-## <i class="fas fa-laptop-medical"> Understanding barrier tissue immunity
+## <i class="fas fa-laptop-medical"> Mapping barrier tissue composition
 {% capture text %}
 Mapping the biological tissues that make up the human body at a single cell level has revealed unique cell types and putative cell-cell interactions that were previously unknown. The oral mucosa is a complex tissue that contains keratinized and non-keratinized epithelium, immune cells, and stromal cells. I apply next generation sequencing technologies to identify cell populations with inflammatory signatures that promote antimicrobial defense and neutrophil recruitment and assess gene and cell-type alterations that occur in periodontal disease, one of the most common inflammatory diseases in adults.  
 [Read more here](https://doi.org/10.1016/j.cell.2021.05.013)
