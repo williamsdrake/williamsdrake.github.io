@@ -5,7 +5,7 @@ title: Drake's Science
 description: A summary of my scientific endeavors and accomplishments.
 logo: images/logo.svg
 header: images/background.jpg
-footer: images/background.jpg
+footer: 
 baseurl: ""
 
 # site social media and other links
