@@ -8,7 +8,7 @@
   {%- assign dark = site.footer-dark -%}
 {%- endif -%}
 {%- if dark == nil -%}
-  {%- assign dark = true -%}
+  {%- assign dark = false -%}
 {%- endif -%}
 
 <footer {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
