@@ -20,7 +20,7 @@ This page will be updated with team members when I start my own lab
 
 {:.center}
 
-<!-- {% include section.html dark=true%}
+{% include section.html dark=true%}
 
 "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."  
 ??? Marie Curie
@@ -29,13 +29,7 @@ This page will be updated with team members when I start my own lab
 
 ## Join
 
-#### Post Dogtoral Researcher
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+This page will be updated with details when I start my own lab
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
@@ -75,4 +69,4 @@ Our work is made possible by funding from the following organizations.
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
 %}
--->
+
