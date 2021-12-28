@@ -111,6 +111,12 @@ manubot:
   text: Manubot
   tooltip: Manubot
   link: $LINK
+  
+press:
+  icon: far fa-newspaper
+  text: Press
+  tooltip: Press
+  link: $LINK
 
 # software
 
