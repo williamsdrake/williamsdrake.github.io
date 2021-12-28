@@ -45,7 +45,7 @@ search:
 # social media
 
 orcid:
-  icon: orcid-logo.svg
+  icon: fab fa-orcid
   text: ORCID
   tooltip: ORCID
   link: https://orcid.org/$LINK
