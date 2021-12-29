@@ -11,6 +11,13 @@
   link: https://github.com/williamsdrake/oralAtlas
   description: Code used to analyze datasets and generate figures from the Oral Atlas paper (Cell 2021)
   repo: 
+  
+- name: Oral mucosa dissociation
+  group: protocol
+  image: images/dissociation.jpg
+  link: https://doi.org/10.1016/j.xpro.2021.100908
+  description: A detailed method to dissociate oral mucosal tissues into single cell suspensions
+  repo: 
 
 - name: R for Data Science
   group: more
