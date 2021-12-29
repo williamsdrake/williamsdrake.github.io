@@ -11,9 +11,15 @@ nav:
 
 {% include section.html %}
 
-## Featured
+## Datasets
 
-{% include list.html component="card" data="resources" filters="group: featured" %}
+{% include list.html component="card" data="resources" filters="group: dataset" %}
+
+{% include section.html %}
+
+## Protocols
+
+{% include list.html component="card" data="resources" filters="group: protocol" %}
 
 {% include section.html %}
 
