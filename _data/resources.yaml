@@ -1,12 +1,12 @@
-- name: Oral Atlas - Interactive Data Viewer
-  group: featured
+- name: Oral Atlas - Data
+  group: dataset
   image: images/atlas.jpg
   link: https://oral.cellatlas.io/
   description: An interactive data viewer for datasets from the Oral Atlas paper (Cell 2021)
   repo: 
 
 - name: Oral Atlas - Code
-  group: featured
+  group: dataset
   image: images/github.jpg
   link: https://github.com/williamsdrake/oralAtlas
   description: Code used to analyze datasets and generate figures from the Oral Atlas paper (Cell 2021)
