@@ -22,7 +22,7 @@ I am a dentist scientist with interest in host-microbe interactions and oral bar
 %}
 
 {% capture text %}
-I am interested in merging immunology and microbiology to understand the processes that govern host-microbe interactions in health and disease at the oral barrier. To achieve this, I utilize mouse models that mimic disease in addition to clinical samples of severe disease.
+I am interested in merging immunology and microbiology to understand the processes that govern host-microbe interactions in health and disease at the oral barrier. To achieve this, I utilize mouse models that mimic disease in addition to clinical samples of pristine health and severe disease.
 
 [Read more](research)
 {:.center}
@@ -30,7 +30,7 @@ I am interested in merging immunology and microbiology to understand the process
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.gif"
   link="research"
   headline="My Research"
   text=text
