@@ -1,6 +1,6 @@
 - name: Oral Atlas - Interactive Data Viewer
   group: featured
-  image: images/photo.jpg
+  image: images/atlas.jpg
   link: https://oral.cellatlas.io/
   description: An interactive data viewer for datasets from the Oral Atlas paper (Cell 2021)
   repo: 
@@ -14,21 +14,21 @@
 
 - name: Cool Tutorial
   group: more
-  image: images/photo.jpg
+  image: images/placeholder.jpg
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: 
 
 - name: Cool Web App
   group: more
-  image: images/photo.jpg
+  image: images/placeholder.jpg
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: 
 
 - name: Cool Web Server
   group: more
-  image: images/photo.jpg
+  image: images/placeholder.jpg
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: 
