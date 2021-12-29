@@ -4,21 +4,12 @@ title: Home
 
 ### Host-microbe interactions and oral mucosal immunity
 
-I am interested in merging immunology and microbiology to understand the processes that govern host-microbe interactions in health and disease at the oral barrier.
-
-<!---{% include section.html full=true %}-->
-
-{% include banner.html image="images/banner.jpg" %}
-
 {% include section.html %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am a dentist scientist with interest in host-microbe interactions and oral barrier immunity. I have previously studied at UCLA and am currently a clinical fellow at NIH/NIDCR.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-[Who I am](team)
+[Read more](team)
 {:.center}
 {% endcapture %}
 
@@ -26,15 +17,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include feature.html
   image="images/drake.jpg"
   link="team"
-  headline="Our Team"
+  headline="Who I am"
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am interested in merging immunology and microbiology to understand the processes that govern host-microbe interactions in health and disease at the oral barrier. To achieve this, I utilize mouse models that mimic disease in addition to clinical samples of severe disease.
 
-[See what I've published &nbsp;→](publications)
+[Read more](research)
 {:.center}
 {% endcapture %}
 
@@ -42,15 +32,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include feature.html
   image="images/photo.jpg"
   link="research"
-  headline="Our Research"
+  headline="My Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In my postdoctoral work, I have generated a single cell atlas of the human buccal and gingival mucosa. Additionally, I helped to develop a method for efficient dissociation of oral mucosal tissues for single cell applications. 
 
-[See our resources &nbsp;→](tools)
+[Read more](tools)
 {:.center}
 {% endcapture %}
 
@@ -58,6 +47,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  headline="Our Resources"
+  headline="Resources"
   text=text
 %}
