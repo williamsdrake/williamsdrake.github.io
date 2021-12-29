@@ -56,6 +56,9 @@ sass:
 # syntax highlighting
 highlighter: rouge
 
+# Google Analytics:
+google_analytics: UA-216067793-1
+
 # plugins
 plugins:
   - jekyll-redirect-from
