@@ -1,10 +1,10 @@
 ### basic settings
 
 # site properties and page defaults
-title: Drake's Science
+title: Drake Williams DDs, PhD
 description: A summary of my scientific endeavors and accomplishments.
-logo: images/logo.svg
-header: images/background.jpg
+logo: 
+header: 
 footer: 
 baseurl: ""
 
