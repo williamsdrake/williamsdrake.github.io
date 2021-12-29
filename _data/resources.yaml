@@ -14,7 +14,7 @@
   
 - name: Oral mucosa dissociation
   group: protocol
-  image: images/placeholder.svg
+  image: images/dissociation.jpg
   link: https://doi.org/10.1016/j.xpro.2021.100908
   description: A detailed method to dissociate oral mucosal tissues into single cell suspensions
   repo: 
