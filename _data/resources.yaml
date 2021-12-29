@@ -29,7 +29,7 @@
 - name: Academic CV
   group: more
   image: images/overleaf.jpg
-  link: https://www.overleaf.com/read/gptprjgkgzvq
+  link: https://www.overleaf.com/read/gptprjgkgzvqq
   description: Example of an academic CV made in LaTeX modified from the Awesome-CV template.
   repo: 
 
