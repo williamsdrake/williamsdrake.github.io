@@ -7,9 +7,9 @@
 
 - name: Oral Atlas - Code
   group: featured
-  image: images/photo.jpg
+  image: images/github.jpg
   link: https://github.com/williamsdrake/oralAtlas
-  description: Code used to analyze datasets and generate figures related to single-cell RNA sequencing from the Oral Atlas paper (Cell 2021)
+  description: Code used to analyze datasets and generate figures from the Oral Atlas paper (Cell 2021)
   repo: 
 
 - name: Cool Tutorial
