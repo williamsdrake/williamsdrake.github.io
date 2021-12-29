@@ -32,3 +32,10 @@
   link: https://www.overleaf.com/read/gptprjgkgzvq
   description: Example of an academic CV made in LaTeX modified from the Awesome-CV template.
   repo: 
+
+- name: Lab website
+  group: more
+  image: images/website.jpg
+  link: https://github.com/greenelab/lab-website-template
+  description: Template for lab website that was used to create this website.
+  repo: 
