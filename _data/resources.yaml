@@ -12,23 +12,23 @@
   description: Code used to analyze datasets and generate figures from the Oral Atlas paper (Cell 2021)
   repo: 
 
-- name: Cool Tutorial
+- name: R for Data Science
   group: more
-  image: images/placeholder.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/r.jpg
+  link: https://r4ds.had.co.nz/index.html
+  description: Useful introduction to R programming language for scientists.
   repo: 
 
-- name: Cool Web App
+- name: Adobe Illustrator Guide
   group: more
-  image: images/placeholder.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/ai.jpg
+  link: http://rajlaboratory.blogspot.com/2019/08/i-adobe-illustrator-for-scientific.html
+  description: Fantastic guide to using Adobe Illustrator for scientific work from Raj Lab
   repo: 
 
-- name: Cool Web Server
+- name: Academic CV
   group: more
-  image: images/placeholder.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/overleaf.jpg
+  link: https://www.overleaf.com/read/gptprjgkgzvq
+  description: Example of an academic CV made in LaTeX modified from the Awesome-CV template.
   repo: 
