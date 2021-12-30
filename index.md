@@ -37,7 +37,7 @@ I am interested in merging immunology and microbiology to understand the process
 %}
 
 {% capture text %}
-In my postdoctoral work, I have generated a single cell atlas of the human buccal and gingival mucosa. Additionally, I helped to develop a method for efficient dissociation of oral mucosal tissues for single cell applications. 
+In my postdoctoral work, I have generated a single cell RNA Seq atlas of the human buccal and gingival mucosa. Additionally, I helped to develop a method for efficient dissociation of oral mucosal tissues for single cell applications. 
 
 [Read more](resources)
 {:.center}
@@ -45,7 +45,7 @@ In my postdoctoral work, I have generated a single cell atlas of the human bucca
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/placeholder.svg"
   link="resources"
   headline="Resources"
   text=text
