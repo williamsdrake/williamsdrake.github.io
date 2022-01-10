@@ -24,6 +24,7 @@ Using single-cell RNA sequencing, I have:
   text=text
 %}
 
+{% include section.html %}
 ## <i class="fas fa-microscope"></i> Molecular architecture and deep immunophenotyping of the oral barrier
 {% capture text %}
 To understand how mucosal structure relates to function and immune response, I am: 
