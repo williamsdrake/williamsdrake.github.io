@@ -7,7 +7,7 @@ title: Home
 {% include section.html %}
 
 {% capture text %}
-I am a dentist scientist with interest in host-microbe interactions and oral barrier immunity. I have previously studied at UCLA and am currently a clinical fellow at NIH/NIDCR.
+I am a dentist scientist with interest in host-microbe interactions and oral barrier immunity. I have previously trained at UCLA and am currently a clinical fellow at NIH/NIDCR.
 
 [Read more](team)
 {:.center}
