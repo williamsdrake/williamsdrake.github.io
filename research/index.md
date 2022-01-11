@@ -61,7 +61,7 @@ To determine how the innate and adaptive immune system responds to bacterial and
 {% capture text %}
 The Moutsopoulos Lab sees several cohorts of patients that have single gene mutations which lead to severe oral disease. Using single cell sequencing, I am assessing how experimental treatment influences cell composition and gene expression in:
 - patients with a gain-of-function mutation in *Stat1*, which causes chronic mucocutaneous candidiasis and severe oral ulcers
-- patients with leukocyte adhesion deficiency 1, which causes severe gingival immunopathology leading to early-life tooth loss
+- patients with leukocyte adhesion deficiency 1 (LAD1), which causes severe gingival immunopathology leading to early-life tooth loss
 {% endcapture %}
 
 {%
