@@ -70,7 +70,7 @@
   extra-links:
     - type: podcast
       link: https://www.microbe.tv/twin/twin-15/
-      text: This Week in Neuroscience: Episode 15
+      text: This Week in Neuroscience, Episode 15
     - type: video
       link: https://www.youtube.com/watch?v=cqfVBVkOS1U
       text: The Sheekey Science Show
@@ -161,7 +161,7 @@ extra-links:
     - text: This Month in AJP
     - type: cme
     - link: 
-    - text: ASIP 2014 CME Manuscript
+    - text: ASIP CME Manuscript
 - id: doi:10.1016/j.joen.2013.06.004
   image: https://img4.luminarypodcasts.com/v1/podcast/3e60410e-7920-4018-aec9-ff7a641fc867/default/h_500,w_500/image/s--x9f_WYIi--/aHR0cDovL3d3dy5qZW5kb2Rvbi5jb20vcGIvYXNzZXRzL3Jhdy9IZWFsdGglMjBBZHZhbmNlL2pvdXJuYWxzL2pvZW4vam9lbl9hdWRpby5qcGc=.jpg
   tags:
