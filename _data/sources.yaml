@@ -24,7 +24,7 @@
       text: Interactive data viewer
     - type: opinion
       link: https://doi.org/10.3410/f.740287213.793587038
-      text: Faculty Opinions: Excellent
+      text: Faculty Opinions (Excellent)
     - type: press
       link: https://www.nidcr.nih.gov/news-events/nidcr-news/2021/census-inside-your-mouth
       text: NIDCR News
@@ -44,13 +44,13 @@
   extra-links:
     - type: opinion
       link: https://doi.org/10.3410/f.739361046.793582190
-      text: Faculty Opinions: Excellent
+      text: Faculty Opinions (Excellent)
     - type: opinion
       link: https://doi.org/10.3410/f.739361046.793582293
-      text: Faculty Opinions: Excellent
+      text: Faculty Opinions (Excellent)
     - type: opinion
       link: https://doi.org/10.3410/f.739361046.793582683
-      text: Faculty Opinions: Excellent
+      text: Faculty Opinions (Excellent)
     - type: press
       link: https://www.niaid.nih.gov/news-events/how-do-fungal-infections-take-hold-rare-disease-offers-new-insights
       text: NIAID Now
@@ -154,13 +154,13 @@ extra-links:
     - link: https://newsroom.ucla.edu/releases/study-by-ucla-scientists-reveals-new-findings-about-cause-of-lesions-around-jaw-bone
     - text: UCLA Newsroom
     - type: press
-    - link: 
+    - link: https://dentistry.ucla.edu/newsletter/15/01/research-news
     - text: UCLA School of Dentistry
     - type: press
-    - link: https://dentistry.ucla.edu/newsletter/15/01/research-news
+    - link: https://doi.org/10.1016/j.ajpath.2014.08.016
     - text: This Month in AJP
     - type: cme
-    - link: https://doi.org/10.1016/j.ajpath.2014.08.016
+    - link: 
     - text: ASIP 2014 CME Manuscript
 - id: doi:10.1016/j.joen.2013.06.004
   image: https://img4.luminarypodcasts.com/v1/podcast/3e60410e-7920-4018-aec9-ff7a641fc867/default/h_500,w_500/image/s--x9f_WYIi--/aHR0cDovL3d3dy5qZW5kb2Rvbi5jb20vcGIvYXNzZXRzL3Jhdy9IZWFsdGglMjBBZHZhbmNlL2pvdXJuYWxzL2pvZW4vam9lbl9hdWRpby5qcGc=.jpg
