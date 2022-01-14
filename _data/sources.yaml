@@ -109,8 +109,8 @@
     - bone
   extra-links:
     - type: press
-    - link: https://doi.org/10.1177/0022034520918536
-    - text: Special Edition on Oral Microbiome
+      link: https://doi.org/10.1177/0022034520918536
+      text: Special Edition on Oral Microbiome
 - id: doi:10.1128/MRA.01481-18
   image: https://pbs.twimg.com/profile_images/1270960125826629638/Z1uI284T_400x400.jpg
   date: 2019-1-10
@@ -127,8 +127,8 @@
     - bone
   extra-links:
     - type: press
-    - link: https://doi.org/10.1016/j.ajpath.2018.08.001
-    - text: This Month in AJP
+      link: https://doi.org/10.1016/j.ajpath.2018.08.001
+      text: This Month in AJP
 - id: doi:10.1002/jbmr.2985
   image: https://pbs.twimg.com/profile_images/1165660149/58711_107161329343674_100001494229506_54793_5219834_n_400x400.jpg
   date: 2016-8-27
@@ -150,19 +150,19 @@
     - MRONJ
     - bone
     - RANKL
-extra-links:
+  extra-links:
     - type: press
-    - link: https://newsroom.ucla.edu/releases/study-by-ucla-scientists-reveals-new-findings-about-cause-of-lesions-around-jaw-bone
-    - text: UCLA Newsroom
+      link: https://newsroom.ucla.edu/releases/study-by-ucla-scientists-reveals-new-findings-about-cause-of-lesions-around-jaw-bone
+      text: UCLA Newsroom
     - type: press
-    - link: https://dentistry.ucla.edu/newsletter/15/01/research-news
-    - text: UCLA School of Dentistry
+      link: https://dentistry.ucla.edu/newsletter/15/01/research-news
+      text: UCLA School of Dentistry
     - type: press
-    - link: https://doi.org/10.1016/j.ajpath.2014.08.016
-    - text: This Month in AJP
+      link: https://doi.org/10.1016/j.ajpath.2014.08.016
+      text: This Month in AJP
     - type: cme
-    - link: 
-    - text: ASIP CME Manuscript
+      link: 
+      text: ASIP CME Manuscript
 - id: doi:10.1016/j.joen.2013.06.004
   image: https://img4.luminarypodcasts.com/v1/podcast/3e60410e-7920-4018-aec9-ff7a641fc867/default/h_500,w_500/image/s--x9f_WYIi--/aHR0cDovL3d3dy5qZW5kb2Rvbi5jb20vcGIvYXNzZXRzL3Jhdy9IZWFsdGglMjBBZHZhbmNlL2pvdXJuYWxzL2pvZW4vam9lbl9hdWRpby5qcGc=.jpg
   tags:
