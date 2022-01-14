@@ -22,6 +22,18 @@
     - type: source
       link: https://oral.cellatlas.io/
       text: Interactive data viewer
+    - type: opinion
+      link: https://doi.org/10.3410/f.740287213.793587038
+      text: Faculty Opinions: Excellent
+    - type: press
+      link: https://www.nidcr.nih.gov/news-events/nidcr-news/2021/census-inside-your-mouth
+      text: NIDCR News
+    - type: press
+      link: https://www.nature.com/articles/s41577-021-00582-3
+      text: Nature Reviews Immunology
+    - type: press
+      link: https://www.dentistrytoday.com/oral-cell-census-reveals-insight-into-periodontal-disease/
+      text: Dentistry Today
 - id: doi:10.1126/science.aay5731
   image: https://pbs.twimg.com/profile_images/1001918231752429568/wUNPvDdW_400x400.jpg
   date: 2021-1-15
@@ -29,6 +41,25 @@
     - AIRE-deficiency
     - interferonopathy
     - immunology
+  extra-links:
+    - type: opinion
+      link: https://doi.org/10.3410/f.739361046.793582190
+      text: Faculty Opinions: Excellent
+    - type: opinion
+      link: https://doi.org/10.3410/f.739361046.793582293
+      text: Faculty Opinions: Excellent
+    - type: opinion
+      link: https://doi.org/10.3410/f.739361046.793582683
+      text: Faculty Opinions: Excellent
+    - type: press
+      link: https://www.niaid.nih.gov/news-events/how-do-fungal-infections-take-hold-rare-disease-offers-new-insights
+      text: NIAID Now
+    - type: press
+      link: https://www.nidcr.nih.gov/news-events/nidcr-news/2021/how-fungus-finds-foothold-mouth
+      text: NIDCR News
+    - type: press
+      link: https://www.dentistrytoday.com/news/industrynews/item/7931-researchers-uncover-how-fungus-takes-hold-in-the-oral-cavity
+      text: Dentistry Today
 - id: doi:10.1038/s41586-020-2745-3
   image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
   date: 2020-9-23
@@ -36,6 +67,37 @@
     - maternal microbiome
     - fetal neurodevelopment
     - metabolites
+  extra-links:
+    - type: podcast
+      link: https://www.microbe.tv/twin/twin-15/
+      text: This Week in Neuroscience: Episode 15
+    - type: video
+      link: https://www.youtube.com/watch?v=cqfVBVkOS1U
+      text: The Sheekey Science Show
+    - type: press
+      link: https://www.nature.com/articles/d41586-020-02657-y
+      text: Nature News and Views
+    - type: press
+      link: https://newsroom.ucla.edu/releases/maternal-microbiota-and-the-fetal-brain
+      text: UCLA Newsroom
+    - type: opinion
+      link: https://www.eurekalert.org/pub_releases/2020-09/uoc--hmi092320.php
+      text: EurekaAlert!
+    - type: press
+      link: https://www.sciencedaily.com/releases/2020/09/200923164601.htm
+      text: Science Daily
+    - type: press
+      link: https://www.sciencenews.org/article/mother-mouse-gut-microbes-microbiome-pup-brain
+      text: Science News
+    - type: press
+      link: https://bioengineer.org/how-microbes-in-a-mothers-intestines-affect-fetal-neurodevelopment/
+      text: Bioengineer.org
+    - type: press
+      link: https://theconversation.com/how-a-pregnant-mouses-microbes-influence-offsprings-brain-development-new-study-offers-clues-146521
+      text: The Conversation
+    - type: press
+      link: https://medium.com/predict/mothers-microbes-shape-the-brain-of-their-unborn-children-7872370aeda9
+      text: Medium
 - id: doi:10.1177/0022034520908594
   image: https://pbs.twimg.com/profile_images/1284227457621667840/E07VvGR2_400x400.jpg
   date: 2020-2-28
@@ -44,6 +106,10 @@
     - microbiome
     - periodontitis
     - bone
+  extra-links:
+    - type: press
+    - link: https://doi.org/10.1177/0022034520918536
+    - text: Special Edition on Oral Microbiome
 - id: doi:10.1128/MRA.01481-18
   image: https://pbs.twimg.com/profile_images/1270960125826629638/Z1uI284T_400x400.jpg
   date: 2019-1-10
@@ -58,6 +124,10 @@
     - MRONJ
     - periodontitis
     - bone
+  extra-links:
+    - type: press
+    - link: https://doi.org/10.1016/j.ajpath.2018.08.001
+    - text: This Month in AJP
 - id: doi:10.1002/jbmr.2985
   image: https://pbs.twimg.com/profile_images/1165660149/58711_107161329343674_100001494229506_54793_5219834_n_400x400.jpg
   date: 2016-8-27
@@ -79,6 +149,19 @@
     - MRONJ
     - bone
     - RANKL
+extra-links:
+    - type: press
+    - link: https://newsroom.ucla.edu/releases/study-by-ucla-scientists-reveals-new-findings-about-cause-of-lesions-around-jaw-bone
+    - text: UCLA Newsroom
+    - type: press
+    - link: 
+    - text: UCLA School of Dentistry
+    - type: press
+    - link: https://dentistry.ucla.edu/newsletter/15/01/research-news
+    - text: This Month in AJP
+    - type: cme
+    - link: https://doi.org/10.1016/j.ajpath.2014.08.016
+    - text: ASIP 2014 CME Manuscript
 - id: doi:10.1016/j.joen.2013.06.004
   image: https://img4.luminarypodcasts.com/v1/podcast/3e60410e-7920-4018-aec9-ff7a641fc867/default/h_500,w_500/image/s--x9f_WYIi--/aHR0cDovL3d3dy5qZW5kb2Rvbi5jb20vcGIvYXNzZXRzL3Jhdy9IZWFsdGglMjBBZHZhbmNlL2pvdXJuYWxzL2pvZW4vam9lbl9hdWRpby5qcGc=.jpg
   tags:

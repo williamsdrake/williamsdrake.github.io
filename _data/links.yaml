@@ -117,7 +117,29 @@ press:
   text: Press
   tooltip: Press
   link: $LINK
+  
+opinion:
+  icon: fas fa-star
+  text: Faculty Opinion
+  tooltip: Faculty Opinion
+  link: $LINK
+  
+video:
+  icon: fas fa-tv
+  text: Video
+  tooltip: Video
+  link: $LINK
 
+cme:
+  icon: fas fa-user-md
+  text: Continuing Medical Education
+  tooltip: CME
+  link: $LINK
+podcast:
+  icon: fas fa-podcast
+  text: Podcast
+  tooltip: Podcast
+  link: $LINK
 # software
 
 docs:
