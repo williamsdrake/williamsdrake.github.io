@@ -16,6 +16,7 @@
   extra-links:
     - type: preprint
       link: https://www.biorxiv.org/content/10.1101/2021.04.06.438702v1
+      text: Preprint
     - type: source
       link: https://github.com/williamsdrake/oralAtlas
       text: Analysis source
