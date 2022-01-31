@@ -46,10 +46,13 @@
     text: Preprint
   - type: source
     link: https://github.com/williamsdrake/oralAtlas
-    text: Analysis source
-  - type: source
+    text: Code
+  - type: data
     link: https://oral.cellatlas.io/
     text: Interactive data viewer
+  - type: video
+    link: https://jrnlclub.org/research-films/oral-mucosa-cell-atlas
+    text: JRNL club
   - type: opinion
     link: https://doi.org/10.3410/f.740287213.793587038
     text: Faculty Opinions (Excellent)
@@ -59,6 +62,9 @@
   - type: press
     link: https://www.nature.com/articles/s41577-021-00582-3
     text: Nature Reviews Immunology
+  - type: press
+    link: https://doi.org/10.1111/all.15219
+    text: Allergy (News and Views)
   - type: press
     link: https://www.dentistrytoday.com/oral-cell-census-reveals-insight-into-periodontal-disease/
     text: Dentistry Today
