@@ -14,7 +14,8 @@ We employ a systems biology approach to better understand homeostasis at the ora
 Using a combination of single-cell RNA sequencing, histology and flow cytometry, we have identified:  
 - stromal cells are defined by inflammatory signatures in health which are exacerbated in disease
 - novel stromal-immune interactions that potentially drive oral mucosal inflammation in disease  
-We are currently working to improve our understanding of these potential interactions at the protein and RNA level. 
+
+We are actively working to improve our understanding of these potential interactions at the protein and RNA level. 
 {% endcapture %}
 
 {%
