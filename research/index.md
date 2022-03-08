@@ -8,12 +8,13 @@ nav:
 # <i class="fas fa-flask"></i>Research Areas
 
 {% include section.html %}
-## <i class="fas fa-laptop-medical"></i> Understanding barrier tissue immunity
+## <i class="fas fa-laptop-medical"></i> Oral barrier composition in health and disease
 {% capture text %}
-Using single-cell RNA sequencing, I have: 
-- created a transcriptional atlas of two distinct oral mucosal sites in health and in the common inflammatory disease periodontitis
-- discovered inflammatory signatures that define stromal populations in health
-- identified novel stromal-immune interactions that potentially drive oral mucosal inflammation in disease 
+We employ a systems biology approach to better understand homeostasis at the oral barrier, and importantly, how homeostasis is disrupted in inflammatory disease (periodontitis)
+Using a combination of single-cell RNA sequencing, histology and flow cytometry, we have identified:  
+- stromal cells are defined by inflammatory signatures in health which are exacerbated in disease
+- novel stromal-immune interactions that potentially drive oral mucosal inflammation in disease  
+We are currently working to improve our understanding of these potential interactions at the protein and RNA level. 
 {% endcapture %}
 
 {%
@@ -25,27 +26,12 @@ Using single-cell RNA sequencing, I have:
 %}
 
 {% include section.html %}
-## <i class="fas fa-microscope"></i> Molecular architecture and deep immunophenotyping of the oral barrier
+## <i class="fas fa-bacteria"></i> Host-microbe interactions in the oral mucosa
 {% capture text %}
-To understand how mucosal structure relates to function and immune response, I am: 
-- utilizing multiplexed ion beam imaging (MIBI), spatial transcriptomics (Visium), and *in situ* hybridization (RNAScope) to localize distinct populations of stromal, epithelial and immune cells in health and periodontal disease
-- enriching our single-cell atlas by combining Cellular Indexing of Transcriptomes and Epitopes by Sequencing (CITE-seq) and spectral cytometry to enable deeper understanding of cell populations present at the oral mucosa.
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/placeholder.svg"
-  link=""
-  headline=""
-  text=text
-%}
-
-{% include section.html %}
-## <i class="fas fa-bacteria"></i> Probing host-microbe interactions in the oral mucosa
-{% capture text %}
-To determine how the innate and adaptive immune system responds to bacterial and fungal stimuli, I am: 
+Relatively little is known how host cells respond to specific bacterial antigen and non-specific bacterial stimuli at the oral barrier.
+To determine how the innate and adaptive immune system responds to bacterial and fungal stimuli, we are:  
 - using flow-cytometry-based bacterial/fungal cell sorting and 16S/ITS sequencing to characterize taxa-specific coating of the oral microbiota with immunoglobulin 
-- developing tools to assess T-cell specific responses to known oral pathogens.
+- developing tools to assess T-cell specific responses to known oral pathogens
 {% endcapture %}
 
 {%
@@ -57,9 +43,9 @@ To determine how the innate and adaptive immune system responds to bacterial and
 %}
 
 {% include section.html %}
-## <i class="fas fa-syringe"></i> Mucosal immunity through the lens of mendelian defects
+## <i class="fas fa-syringe"></i> Mucosal immunity in mendelian disease
 {% capture text %}
-The Moutsopoulos Lab sees several cohorts of patients that have single gene mutations which lead to severe oral disease. Using single cell sequencing, I am assessing how experimental treatment influences cell composition and gene expression in:
+The Moutsopoulos Lab sees several cohorts of patients that have single gene mutations which lead to severe oral disease. Using single cell sequencing, we are assessing how experimental treatment influences cell composition and gene expression in:
 - patients with a gain-of-function mutation in *Stat1*, which causes chronic mucocutaneous candidiasis and severe oral ulcers
 - patients with leukocyte adhesion deficiency 1 (LAD1), which causes severe gingival immunopathology leading to early-life tooth loss
 {% endcapture %}
