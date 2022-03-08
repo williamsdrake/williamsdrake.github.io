@@ -10,7 +10,7 @@ nav:
 {% include section.html %}
 ## <i class="fas fa-laptop-medical"></i> Oral barrier composition in health and disease
 {% capture text %}
-We employ a systems biology approach to better understand homeostasis at the oral barrier, and importantly, how homeostasis is disrupted in inflammatory disease (periodontitis)
+We employ a systems biology approach to better understand homeostasis at the oral barrier, and importantly, how homeostasis is disrupted in inflammatory disease (periodontitis).
 Using a combination of single-cell RNA sequencing, histology and flow cytometry, we have identified:  
 - stromal cells are defined by inflammatory signatures in health which are exacerbated in disease
 - novel stromal-immune interactions that potentially drive oral mucosal inflammation in disease  
