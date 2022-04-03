@@ -1,5 +1,26 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1038/s41368-022-00166-4
+  title: Indigenous microbiota protects development of medication-related osteonecrosis
+    induced by periapical disease in mice
+  authors:
+  - Wen Du
+  - Mengyu Yang
+  - Terresa Kim
+  - Sol Kim
+  - Drake W. Williams
+  - Maryam Esmaeili
+  - Christine Hong
+  - Ki-Hyuk Shin
+  - Mo K. Kang
+  - No-Hee Park
+  - Reuben H. Kim
+  publisher: International Journal of Oral Science
+  date: '2022-03-22'
+  link: https://doi.org/gps8wq
+  tags:
+  - MRONJ
+  - microbiome
 - id: doi:10.1016/j.xpro.2021.100908
   title: Dissociation of human oral mucosal tissue for single-cell applications
   authors:
@@ -39,7 +60,7 @@
   - scRNA seq
   - oral atlas
   - periodontitis
-  - resource
+  - immunology
   extra-links:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/2021.04.06.438702v1
@@ -159,9 +180,10 @@
   link: https://doi.org/gj29x8
   image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
   tags:
-  - maternal microbiome
-  - fetal neurodevelopment
-  - metabolites
+  - microbiome
+  - neurodevelopment
+  - metabolite
+  - maternal-fetal
   extra-links:
   - type: podcast
     link: https://www.microbe.tv/twin/twin-15/
