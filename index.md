@@ -45,7 +45,7 @@ In my postdoctoral work, I have generated a single cell RNA Seq atlas of the hum
 
 {%
   include feature.html
-  image="images/placeholder.svg"
+  image="images/resources.png"
   link="resources"
   headline="Resources"
   text=text
