@@ -1,48 +1,48 @@
 - name: Oral Atlas - Data
   group: dataset
-  image: images/atlas.png
+  image: images/atlas.jpg
   link: https://oral.cellatlas.io/
   description: An interactive data viewer for datasets from the Oral Atlas paper (Cell 2021)
   repo: 
 
 - name: Oral Atlas - Code
   group: dataset
-  image: images/github.png
+  image: images/github.jpg
   link: https://github.com/williamsdrake/oralAtlas
   description: Code used to analyze datasets and generate figures from the Oral Atlas paper (Cell 2021)
   repo: 
   
 - name: Oral mucosa dissociation
   group: protocol
-  image: images/dissociation.png
+  image: images/dissociation.jpg
   link: https://doi.org/10.1016/j.xpro.2021.100908
   description: A detailed method to dissociate oral mucosal tissues into single cell suspensions
   repo: 
 
 - name: R for Data Science
   group: more
-  image: images/r.png
+  image: images/r.jpg
   link: https://r4ds.had.co.nz/index.html
   description: Useful introduction to R programming language for scientists.
   repo: 
 
 - name: Adobe Illustrator Guide
   group: more
-  image: images/ai.png
+  image: images/ai.jpg
   link: http://rajlaboratory.blogspot.com/2019/08/i-adobe-illustrator-for-scientific.html
   description: Fantastic guide to using Adobe Illustrator for scientific work from Raj Lab
   repo: 
 
 - name: Academic CV
   group: more
-  image: images/overleaf.png
+  image: images/overleaf.jpg
   link: https://www.overleaf.com/read/gptprjgkgzvqq
   description: Example of an academic CV made in LaTeX modified from the Awesome-CV template.
   repo: 
 
 - name: Lab website
   group: more
-  image: images/website.png
+  image: images/website.jpg
   link: https://github.com/greenelab/lab-website-template
   description: Template for lab website that was used to create this website.
   repo: 
