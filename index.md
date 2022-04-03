@@ -30,7 +30,7 @@ I am interested in merging immunology and microbiology to understand the process
 
 {%
   include feature.html
-  image="images/research.gif"
+  image="images/research_transp.gif"
   link="research"
   headline="My Research"
   text=text
