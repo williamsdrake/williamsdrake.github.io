@@ -1,3 +1,8 @@
+- id: doi:10.1038/s41368-022-00166-4
+  date: '2022-03-22'
+  tags:
+    - MRONJ
+    - microbiome
 - id: doi:10.1016/j.xpro.2021.100908
   image: https://pbs.twimg.com/profile_images/1225089025129644032/TBdQps0G_400x400.jpg
   date: '2021-12-17'
@@ -12,7 +17,7 @@
     - scRNA seq
     - oral atlas
     - periodontitis
-    - resource
+    - immunology
   extra-links:
     - type: preprint
       link: https://www.biorxiv.org/content/10.1101/2021.04.06.438702v1
@@ -71,9 +76,10 @@
   image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
   date: 2020-9-23
   tags:
-    - maternal microbiome
-    - fetal neurodevelopment
-    - metabolites
+    - microbiome
+    - neurodevelopment
+    - metabolite
+    - maternal-fetal
   extra-links:
     - type: podcast
       link: https://www.microbe.tv/twin/twin-15/
