@@ -20,7 +20,7 @@ We are actively working to improve our understanding of these potential interact
 
 {%
   include feature.html
-  image="images/atlasGA.jpg"
+  image="images/atlasGA_transp.jpg"
   link=""
   headline=""
   text=text
