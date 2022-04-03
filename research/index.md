@@ -53,7 +53,7 @@ The Moutsopoulos Lab sees several cohorts of patients that have single gene muta
 
 {%
   include feature.html
-  image="images/placeholder.svg"
+  image="images/benchBed.png"
   link=""
   headline=""
   text=text
