@@ -9,7 +9,7 @@ title: Home
 {% capture text %}
 I am a dentist scientist with interest in host-microbe interactions and oral barrier immunity. I have previously trained at UCLA and am currently a clinical fellow at NIH/NIDCR.
 
-[Read more](team)
+[Read more](members/drake-williams.html)
 {:.center}
 {% endcapture %}
 
