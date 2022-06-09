@@ -1,26 +1,22 @@
 - id: doi:10.1002/jbmr.4614
-  date: '2022-05-22'
   tags:
     - MRONJ
     - periodontitis
     - bone
     - phd
 - id: doi:10.1016/j.bbrc.2022.02.088
-  date: '2022-05-21'
   tags:
     - extracellular vesicle
     - damage
     - IL36
     - phd
 - id: doi:10.1038/s41368-022-00166-4
-  date: '2022-03-22'
   tags:
     - MRONJ
     - microbiome
     - phd
 - id: doi:10.1016/j.xpro.2021.100908
-  image: https://pbs.twimg.com/profile_images/1225089025129644032/TBdQps0G_400x400.jpg
-  date: '2021-12-17'
+  image: images/starProtocols.jpg
   tags:
     - single cell isolation
     - immunology
@@ -206,19 +202,19 @@
     - HEMA
     - wound healing
     - dental pulp stem cells
-    - pre-phd
+    - pre-doc
 - id: doi:10.1016/j.joen.2012.09.006
   image: https://img4.luminarypodcasts.com/v1/podcast/3e60410e-7920-4018-aec9-ff7a641fc867/default/h_500,w_500/image/s--x9f_WYIi--/aHR0cDovL3d3dy5qZW5kb2Rvbi5jb20vcGIvYXNzZXRzL3Jhdy9IZWFsdGglMjBBZHZhbmNlL2pvdXJuYWxzL2pvZW4vam9lbl9hdWRpby5qcGc=.jpg
   tags:
     - Camphorquinone
     - dental pulp stem cells
     - wound healing
-    - pre-phd
+    - pre-doc
 - id: doi:10.1177/0022034511402995
   image: https://pbs.twimg.com/profile_images/1284227457621667840/E07VvGR2_400x400.jpg
   tags:
     - bisphosphonate
     - senescence
     - oral fibroblasts
-    - pre-phd
+    - pre-doc
     
