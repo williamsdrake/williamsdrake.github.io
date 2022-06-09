@@ -44,11 +44,11 @@
     - post-doc
   extra-links:
     - type: preprint
-      link: https://www.biorxiv.org/content/10.1101/2021.04.06.438702v1
-      text: Preprint
-    - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359928/
       text: PMC Full Text
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/2021.04.06.438702v1
+      text: bioRxiv
     - type: source
       link: https://github.com/williamsdrake/oralAtlas
       text: Code
@@ -154,13 +154,12 @@
     - bone
     - phd
   extra-links:
-    - type: press
-      link: https://doi.org/10.1177/0022034520918536
-      text: Special Edition on Oral Microbiome
-  extra-links:  
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7243424/
       text: PMC Full Text
+    - type: press
+      link: https://doi.org/10.1177/0022034520918536
+      text: Special Edition on Oral Microbiome
 - id: doi:10.1128/MRA.01481-18
   image: images/mra.svg
   tags:
