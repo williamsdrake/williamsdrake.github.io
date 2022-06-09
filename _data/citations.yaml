@@ -19,6 +19,7 @@
   - periodontitis
   - bone
   - phd
+  image: images/jbmr.svg
 - id: doi:10.1016/j.bbrc.2022.02.088
   title: "Epithelial cells release IL-36\u03B1 in extracellular vesicles following\
     \ mechanical damage"
@@ -64,7 +65,7 @@
   publisher: STAR Protocols
   date: '2021-12-17'
   link: https://doi.org/gntwq7
-  image: images/starProtocols.jpg
+  image: images/starProtocols.svg
   tags:
   - single cell isolation
   - immunology
@@ -90,9 +91,10 @@
   publisher: Cell
   date: '2021-06-14'
   link: https://doi.org/gk9ngf
-  image: https://pbs.twimg.com/profile_images/1220389237218009088/8dRI37l__400x400.jpg
+  image: images/cell.svg
   tags:
   - scRNA seq
+  - omics
   - oral atlas
   - periodontitis
   - immunology
@@ -174,7 +176,7 @@
   publisher: Science
   date: '2021-01-15'
   link: https://doi.org/ghzfr2
-  image: https://pbs.twimg.com/profile_images/1001918231752429568/wUNPvDdW_400x400.jpg
+  image: images/science.svg
   tags:
   - AIRE-deficiency
   - interferonopathy
@@ -215,7 +217,7 @@
   publisher: Nature
   date: '2020-09-23'
   link: https://doi.org/gj29x8
-  image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
+  image: images/nature.svg
   tags:
   - microbiome
   - neurodevelopment
@@ -267,7 +269,7 @@
   publisher: Journal of Dental Research
   date: '2020-02-28'
   link: https://doi.org/gntwvp
-  image: https://pbs.twimg.com/profile_images/1284227457621667840/E07VvGR2_400x400.jpg
+  image: images/jdr.svg
   tags:
   - MRONJ
   - microbiome
@@ -339,12 +341,12 @@
   publisher: Microbiology Resource Announcements
   date: '2019-01-10'
   link: https://doi.org/gntwvq
-  image: https://pbs.twimg.com/profile_images/1270960125826629638/Z1uI284T_400x400.jpg
+  image: images/mra.svg
   tags:
   - K mycobacteriophage
   - sequencing
   - resource
-  - phd
+  - pre-doc
 - id: doi:10.1016/j.ajpath.2018.06.019
   title: "Removal of Pre-Existing Periodontal Inflammatory Condition before Tooth\
     \ Extraction Ameliorates Medication-Related Osteonecrosis of the Jaw\u2013Like\
@@ -365,7 +367,7 @@
   publisher: The American Journal of Pathology
   date: '2018-07-27'
   link: https://doi.org/gntwvr
-  image: https://pbs.twimg.com/profile_images/3662961574/ea4e8362c29fd6c56404971e1b14e649_400x400.jpeg
+  image: images/ajp.svg
   tags:
   - MRONJ
   - periodontitis
@@ -393,7 +395,7 @@
   publisher: Journal of Bone and Mineral Research
   date: '2016-08-27'
   link: https://doi.org/f9n48q
-  image: https://pbs.twimg.com/profile_images/1165660149/58711_107161329343674_100001494229506_54793_5219834_n_400x400.jpg
+  image: images/jbmr.svg
   tags:
   - MRONJ
   - IL36
@@ -416,7 +418,7 @@
   publisher: Aging Cell
   date: '2015-07-01'
   link: https://doi.org/gcbq4d
-  image: https://www.fusion-conferences.com/images/_uploads/Aging_Cell_-_Logo.jpg
+  image: images/agingCell.svg
   tags:
   - aging
   - senescence
@@ -444,7 +446,7 @@
   publisher: The American Journal of Pathology
   date: '2014-11-01'
   link: https://doi.org/gntwvs
-  image: https://pbs.twimg.com/profile_images/3662961574/ea4e8362c29fd6c56404971e1b14e649_400x400.jpeg
+  image: images/ajp.svg
   tags:
   - MRONJ
   - bone
@@ -477,7 +479,7 @@
   publisher: Journal of Endodontics
   date: '2013-09-01'
   link: https://doi.org/f49rtt
-  image: https://img4.luminarypodcasts.com/v1/podcast/3e60410e-7920-4018-aec9-ff7a641fc867/default/h_500,w_500/image/s--x9f_WYIi--/aHR0cDovL3d3dy5qZW5kb2Rvbi5jb20vcGIvYXNzZXRzL3Jhdy9IZWFsdGglMjBBZHZhbmNlL2pvdXJuYWxzL2pvZW4vam9lbl9hdWRpby5qcGc=.jpg
+  image: images/joe.svg
   tags:
   - HEMA
   - wound healing
@@ -500,7 +502,7 @@
   publisher: Journal of Endodontics
   date: '2013-01-01'
   link: https://doi.org/f5k99m
-  image: https://img4.luminarypodcasts.com/v1/podcast/3e60410e-7920-4018-aec9-ff7a641fc867/default/h_500,w_500/image/s--x9f_WYIi--/aHR0cDovL3d3dy5qZW5kb2Rvbi5jb20vcGIvYXNzZXRzL3Jhdy9IZWFsdGglMjBBZHZhbmNlL2pvdXJuYWxzL2pvZW4vam9lbl9hdWRpby5qcGc=.jpg
+  image: images/joe.svg
   tags:
   - Camphorquinone
   - dental pulp stem cells
@@ -523,7 +525,7 @@
   publisher: Journal of Dental Research
   date: '2011-03-22'
   link: https://doi.org/bcszws
-  image: https://pbs.twimg.com/profile_images/1284227457621667840/E07VvGR2_400x400.jpg
+  image: images/jdr.svg
   tags:
   - bisphosphonate
   - senescence
