@@ -18,6 +18,10 @@
     - MRONJ
     - microbiome
     - phd
+  extra-links:
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8934872/
+      text: PMC Full Text
 - id: doi:10.1016/j.xpro.2021.100908
   image: images/starProtocols.svg
   tags:
@@ -25,6 +29,10 @@
     - immunology
     - resource
     - post-doc
+  extra-links:
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551218/
+      text: PMC Full Text
 - id: doi:10.1016/j.cell.2021.05.013
   image: images/cell.svg
   tags:
@@ -38,6 +46,9 @@
     - type: preprint
       link: https://www.biorxiv.org/content/10.1101/2021.04.06.438702v1
       text: Preprint
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359928/
+      text: PMC Full Text
     - type: source
       link: https://github.com/williamsdrake/oralAtlas
       text: Code
@@ -70,6 +81,9 @@
     - immunology
     - post-doc
   extra-links:
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8326743/
+      text: PMC Full Text
     - type: opinion
       link: https://doi.org/10.3410/f.739361046.793582190
       text: Faculty Opinions (Excellent)
@@ -98,6 +112,9 @@
     - maternal-fetal
     - post-doc
   extra-links:
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7554197/
+      text: PMC Full Text
     - type: podcast
       link: https://www.microbe.tv/twin/twin-15/
       text: This Week in Neuroscience, Episode 15
@@ -140,6 +157,10 @@
     - type: press
       link: https://doi.org/10.1177/0022034520918536
       text: Special Edition on Oral Microbiome
+  extra-links:  
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7243424/
+      text: PMC Full Text
 - id: doi:10.1128/MRA.01481-18
   image: images/mra.svg
   tags:
@@ -147,6 +168,10 @@
     - sequencing
     - resource
     - pre-doc
+  extra-links:
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328665/
+      text: PMC Full Text
 - id: doi:10.1016/j.ajpath.2018.06.019
   image: images/ajp.svg
   tags:
@@ -158,6 +183,9 @@
     - type: press
       link: https://doi.org/10.1016/j.ajpath.2018.08.001
       text: This Month in AJP
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169128/
+      text: PMC Full Text
 - id: doi:10.1002/jbmr.2985
   image: images/jbmr.svg
   tags: 
@@ -166,6 +194,10 @@
     - collagen
     - bone
     - phd
+  extra-links:  
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5642919/
+      text: PMC Full Text
 - id: doi:10.1111/acel.12364
   image: images/agingCell.svg
   tags:
@@ -174,6 +206,10 @@
     - p53
     - epigenetics
     - phd
+  extra-links:
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4568971/
+      text: PMC Full Text
 - id: doi:10.1016/j.ajpath.2014.07.010
   image: images/ajp.svg
   tags:
@@ -182,6 +218,9 @@
     - RANKL
     - phd
   extra-links:
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4215026/
+      text: PMC Full Text
     - type: press
       link: https://newsroom.ucla.edu/releases/study-by-ucla-scientists-reveals-new-findings-about-cause-of-lesions-around-jaw-bone
       text: UCLA Newsroom
@@ -201,6 +240,10 @@
     - wound healing
     - dental pulp stem cells
     - pre-doc
+  extra-links:  
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771400/
+      text: PMC Full Text
 - id: doi:10.1016/j.joen.2012.09.006
   image: images/joe.svg
   tags:
@@ -208,6 +251,10 @@
     - dental pulp stem cells
     - wound healing
     - pre-doc
+  extra-links:  
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3770841/
+      text: PMC Full Text
 - id: doi:10.1177/0022034511402995
   image: images/jdr.svg
   tags:
@@ -215,4 +262,7 @@
     - senescence
     - oral fibroblasts
     - pre-doc
-    
+  extra-links:  
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144120/
+      text: PMC Full Text
