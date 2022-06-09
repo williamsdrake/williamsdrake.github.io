@@ -51,7 +51,7 @@ orcid:
   link: https://orcid.org/$LINK
 
 google-scholar:
-  icon: ai google-scholar
+  icon: fa-brands fa-google
   text: Google Scholar
   tooltip: Google Scholar
   link: https://scholar.google.com/citations?hl=en&user=$LINK
@@ -101,7 +101,7 @@ journal:
   link: $LINK
 
 preprint:
-  icon: ai biorxiv
+  icon: fa-solid fa-book-open-reader
   text: Preprint
   tooltip: Preprint
   link: $LINK
