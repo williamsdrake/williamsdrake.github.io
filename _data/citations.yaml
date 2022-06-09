@@ -34,6 +34,7 @@
   - damage
   - IL36
   - phd
+  image: images/bbrc.svg
 - id: doi:10.1038/s41368-022-00166-4
   title: Indigenous microbiota protects development of medication-related osteonecrosis
     induced by periapical disease in mice
@@ -56,6 +57,7 @@
   - MRONJ
   - microbiome
   - phd
+  image: images/ijos.svg
 - id: doi:10.1016/j.xpro.2021.100908
   title: Dissociation of human oral mucosal tissue for single-cell applications
   authors:
