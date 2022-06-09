@@ -101,7 +101,7 @@ journal:
   link: $LINK
 
 preprint:
-  icon: fad fa-book-reader
+  icon: far fa-book-reader
   text: Preprint
   tooltip: Preprint
   link: $LINK
