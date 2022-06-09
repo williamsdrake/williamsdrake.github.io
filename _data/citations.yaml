@@ -1,5 +1,38 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1002/jbmr.4614
+  title: "Long\u2010term ligature\u2010induced periodontitis exacerbates development\
+    \ of bisphosphonate\u2010related osteonecrosis of the jaw in mice"
+  authors:
+  - Drake Winslow Williams
+  - Katie Ho
+  - Allison Lenon
+  - Sol Kim
+  - Terresa Kim
+  - Yousang Gwack
+  - Reuben H. Kim
+  publisher: Journal of Bone and Mineral Research
+  date: '2022-05-22'
+  link: https://doi.org/gp9tkn
+  tags:
+  - MRONJ
+  - periodontitis
+  - bone
+  - phd
+- id: doi:10.1016/j.bbrc.2022.02.088
+  title: "Epithelial cells release IL-36\u03B1 in extracellular vesicles following\
+    \ mechanical damage"
+  authors:
+  - Drake Winslow Williams
+  - Reuben H. Kim
+  publisher: Biochemical and Biophysical Research Communications
+  date: '2022-05-21'
+  link: https://doi.org/gp9tkp
+  tags:
+  - extracellular vesicle
+  - damage
+  - IL36
+  - phd
 - id: doi:10.1038/s41368-022-00166-4
   title: Indigenous microbiota protects development of medication-related osteonecrosis
     induced by periapical disease in mice
@@ -21,6 +54,7 @@
   tags:
   - MRONJ
   - microbiome
+  - phd
 - id: doi:10.1016/j.xpro.2021.100908
   title: Dissociation of human oral mucosal tissue for single-cell applications
   authors:
@@ -35,6 +69,7 @@
   - single cell isolation
   - immunology
   - resource
+  - post-doc
 - id: doi:10.1016/j.cell.2021.05.013
   title: Human oral mucosa cell atlas reveals a stromal-neutrophil axis regulating
     tissue immunity
@@ -61,6 +96,7 @@
   - oral atlas
   - periodontitis
   - immunology
+  - post-doc
   extra-links:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/2021.04.06.438702v1
@@ -143,6 +179,7 @@
   - AIRE-deficiency
   - interferonopathy
   - immunology
+  - post-doc
   extra-links:
   - type: opinion
     link: https://doi.org/10.3410/f.739361046.793582190
@@ -178,12 +215,13 @@
   publisher: Nature
   date: '2020-09-23'
   link: https://doi.org/gj29x8
-  image: images/nature.png
+  image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
   tags:
   - microbiome
   - neurodevelopment
   - metabolite
   - maternal-fetal
+  - post-doc
   extra-links:
   - type: podcast
     link: https://www.microbe.tv/twin/twin-15/
@@ -235,6 +273,7 @@
   - microbiome
   - periodontitis
   - bone
+  - phd
   extra-links:
   - type: press
     link: https://doi.org/10.1177/0022034520918536
@@ -305,6 +344,7 @@
   - K mycobacteriophage
   - sequencing
   - resource
+  - phd
 - id: doi:10.1016/j.ajpath.2018.06.019
   title: "Removal of Pre-Existing Periodontal Inflammatory Condition before Tooth\
     \ Extraction Ameliorates Medication-Related Osteonecrosis of the Jaw\u2013Like\
@@ -330,6 +370,7 @@
   - MRONJ
   - periodontitis
   - bone
+  - phd
   extra-links:
   - type: press
     link: https://doi.org/10.1016/j.ajpath.2018.08.001
@@ -358,6 +399,7 @@
   - IL36
   - collagen
   - bone
+  - phd
 - id: doi:10.1111/acel.12364
   title: Regulation of p53 during senescence in normal human keratinocytes
   authors:
@@ -380,6 +422,7 @@
   - senescence
   - p53
   - epigenetics
+  - phd
 - id: doi:10.1016/j.ajpath.2014.07.010
   title: "Impaired Bone Resorption and Woven Bone Formation Are Associated with Development\
     \ of Osteonecrosis of the Jaw-Like Lesions by Bisphosphonate and Anti\u2013Receptor\
@@ -406,6 +449,7 @@
   - MRONJ
   - bone
   - RANKL
+  - phd
   extra-links:
   - type: press
     link: https://newsroom.ucla.edu/releases/study-by-ucla-scientists-reveals-new-findings-about-cause-of-lesions-around-jaw-bone
@@ -438,6 +482,7 @@
   - HEMA
   - wound healing
   - dental pulp stem cells
+  - pre-phd
 - id: doi:10.1016/j.joen.2012.09.006
   title: Camphorquinone Inhibits Odontogenic Differentiation of Dental Pulp Cells
     and Triggers Release of Inflammatory Cytokines
@@ -460,6 +505,7 @@
   - Camphorquinone
   - dental pulp stem cells
   - wound healing
+  - pre-phd
 - id: doi:10.1177/0022034511402995
   title: Bisphosphonates Induce Senescence in Normal Human Oral Keratinocytes
   authors:
@@ -482,3 +528,4 @@
   - bisphosphonate
   - senescence
   - oral fibroblasts
+  - pre-phd
