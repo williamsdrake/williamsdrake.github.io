@@ -14,18 +14,18 @@ We are located in Building 30 at the NIH Bethesda, MD Campus.
   include link.html
   type="email"
   icon=""
-  text="drakewilliams@gmail.com"
+  text="drakewilliams[at]gmail[dot]com"
   tooltip=""
-  link="drakewilliams@gmail.com"
+  link="drakewilliams[at]gmail[dot]com"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(xxx) xxx-xxxx"
+  text="(301) 814-6334"
   tooltip=""
-  link="+1-xxx-xxx-xxxx"
+  link="+1-301-814-6334"
   style="button"
 %}
 {%
@@ -33,7 +33,7 @@ We are located in Building 30 at the NIH Bethesda, MD Campus.
   type="address"
   icon=""
   text="Google Maps"
-  tooltip="Our location on Google Maps for easy navigation"
+  tooltip="Lab location on Google Maps for easy navigation"
   link="https://goo.gl/maps/QKfWUtzPS2Kqfpnv9"
   style="button"
 %}
@@ -43,8 +43,8 @@ We are located in Building 30 at the NIH Bethesda, MD Campus.
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-30 CONVENT DR
-BETHESDA, MD, 20892
+30 CONVENT DR BG 30 RM 331
+BETHESDA, MD, USA 20892-0001
 {:.center}
 
 {% capture col1 %}
