@@ -58,6 +58,10 @@
   - microbiome
   - phd
   image: images/ijos.svg
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8934872/
+    text: PMC Full Text
 - id: doi:10.1016/j.xpro.2021.100908
   title: Dissociation of human oral mucosal tissue for single-cell applications
   authors:
@@ -73,6 +77,10 @@
   - immunology
   - resource
   - post-doc
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551218/
+    text: PMC Full Text
 - id: doi:10.1016/j.cell.2021.05.013
   title: Human oral mucosa cell atlas reveals a stromal-neutrophil axis regulating
     tissue immunity
@@ -105,6 +113,9 @@
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/2021.04.06.438702v1
     text: Preprint
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359928/
+    text: PMC Full Text
   - type: source
     link: https://github.com/williamsdrake/oralAtlas
     text: Code
@@ -185,6 +196,9 @@
   - immunology
   - post-doc
   extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8326743/
+    text: PMC Full Text
   - type: opinion
     link: https://doi.org/10.3410/f.739361046.793582190
     text: Faculty Opinions (Excellent)
@@ -227,6 +241,9 @@
   - maternal-fetal
   - post-doc
   extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7554197/
+    text: PMC Full Text
   - type: podcast
     link: https://www.microbe.tv/twin/twin-15/
     text: This Week in Neuroscience, Episode 15
@@ -279,9 +296,9 @@
   - bone
   - phd
   extra-links:
-  - type: press
-    link: https://doi.org/10.1177/0022034520918536
-    text: Special Edition on Oral Microbiome
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7243424/
+    text: PMC Full Text
 - id: doi:10.1128/MRA.01481-18
   title: Genome Sequences of Cluster K Mycobacteriophages Deby, LaterM, LilPharaoh,
     Paola, SgtBeansprout, and Sulley
@@ -349,6 +366,10 @@
   - sequencing
   - resource
   - pre-doc
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328665/
+    text: PMC Full Text
 - id: doi:10.1016/j.ajpath.2018.06.019
   title: "Removal of Pre-Existing Periodontal Inflammatory Condition before Tooth\
     \ Extraction Ameliorates Medication-Related Osteonecrosis of the Jaw\u2013Like\
@@ -379,6 +400,9 @@
   - type: press
     link: https://doi.org/10.1016/j.ajpath.2018.08.001
     text: This Month in AJP
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169128/
+    text: PMC Full Text
 - id: doi:10.1002/jbmr.2985
   title: "IL-36 Induces Bisphosphonate-Related Osteonecrosis of the Jaw-Like Lesions\
     \ in Mice by Inhibiting TGF-\u03B2-Mediated Collagen Expression"
@@ -404,6 +428,10 @@
   - collagen
   - bone
   - phd
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5642919/
+    text: PMC Full Text
 - id: doi:10.1111/acel.12364
   title: Regulation of p53 during senescence in normal human keratinocytes
   authors:
@@ -427,6 +455,10 @@
   - p53
   - epigenetics
   - phd
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4568971/
+    text: PMC Full Text
 - id: doi:10.1016/j.ajpath.2014.07.010
   title: "Impaired Bone Resorption and Woven Bone Formation Are Associated with Development\
     \ of Osteonecrosis of the Jaw-Like Lesions by Bisphosphonate and Anti\u2013Receptor\
@@ -455,6 +487,9 @@
   - RANKL
   - phd
   extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4215026/
+    text: PMC Full Text
   - type: press
     link: https://newsroom.ucla.edu/releases/study-by-ucla-scientists-reveals-new-findings-about-cause-of-lesions-around-jaw-bone
     text: UCLA Newsroom
@@ -487,6 +522,10 @@
   - wound healing
   - dental pulp stem cells
   - pre-doc
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771400/
+    text: PMC Full Text
 - id: doi:10.1016/j.joen.2012.09.006
   title: Camphorquinone Inhibits Odontogenic Differentiation of Dental Pulp Cells
     and Triggers Release of Inflammatory Cytokines
@@ -510,6 +549,10 @@
   - dental pulp stem cells
   - wound healing
   - pre-doc
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3770841/
+    text: PMC Full Text
 - id: doi:10.1177/0022034511402995
   title: Bisphosphonates Induce Senescence in Normal Human Oral Keratinocytes
   authors:
@@ -533,3 +576,7 @@
   - senescence
   - oral fibroblasts
   - pre-doc
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144120/
+    text: PMC Full Text
