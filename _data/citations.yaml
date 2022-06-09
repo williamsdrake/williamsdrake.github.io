@@ -64,7 +64,7 @@
   publisher: STAR Protocols
   date: '2021-12-17'
   link: https://doi.org/gntwq7
-  image: https://pbs.twimg.com/profile_images/1225089025129644032/TBdQps0G_400x400.jpg
+  image: images/starProtocols.jpg
   tags:
   - single cell isolation
   - immunology
@@ -482,7 +482,7 @@
   - HEMA
   - wound healing
   - dental pulp stem cells
-  - pre-phd
+  - pre-doc
 - id: doi:10.1016/j.joen.2012.09.006
   title: Camphorquinone Inhibits Odontogenic Differentiation of Dental Pulp Cells
     and Triggers Release of Inflammatory Cytokines
@@ -505,7 +505,7 @@
   - Camphorquinone
   - dental pulp stem cells
   - wound healing
-  - pre-phd
+  - pre-doc
 - id: doi:10.1177/0022034511402995
   title: Bisphosphonates Induce Senescence in Normal Human Oral Keratinocytes
   authors:
@@ -528,4 +528,4 @@
   - bisphosphonate
   - senescence
   - oral fibroblasts
-  - pre-phd
+  - pre-doc
