@@ -179,12 +179,12 @@
     - bone
     - phd
   extra-links:
-    - type: press
-      link: https://doi.org/10.1016/j.ajpath.2018.08.001
-      text: This Month in AJP
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169128/
       text: PMC Full Text
+    - type: press
+      link: https://doi.org/10.1016/j.ajpath.2018.08.001
+      text: This Month in AJP
 - id: doi:10.1002/jbmr.2985
   image: images/jbmr.svg
   tags: 
