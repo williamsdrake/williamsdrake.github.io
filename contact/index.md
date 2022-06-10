@@ -14,9 +14,9 @@ We are located in Building 30 at the NIH Bethesda, MD Campus.
   include link.html
   type="email"
   icon=""
-  text="drakewilliams[at]gmail[dot]com"
+  text="drakewilliams@gmail.com"
   tooltip=""
-  link="drakewilliams[at]gmail[dot]com"
+  link="drakewilliams@gmail.com"
   style="button"
 %}
 {%
