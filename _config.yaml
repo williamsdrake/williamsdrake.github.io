@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Drake's Science
 description: A summary of my scientific endeavors and accomplishments.
-logo: images/logo.svg
+logo: images/logo.png
 header: 
 footer: 
 baseurl: ""
