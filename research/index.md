@@ -25,7 +25,6 @@ To determine how the innate and adaptive immune system responds to bacterial and
 %}
 
 {% include section.html %}
-{% include section.html %}
 ## <i class="fas fa-laptop-medical"></i> Oral barrier composition in health and disease
 {% capture text %}
 We employ a systems biology approach to better understand homeostasis at the oral barrier, and importantly, how homeostasis is disrupted in inflammatory disease (periodontitis).
@@ -44,7 +43,6 @@ We are actively working to improve our understanding of these potential interact
   text=text
 %}
 
-{% include section.html %}
 {% include section.html %}
 ## <i class="fas fa-syringe"></i> Mucosal immunity in mendelian disease
 {% capture text %}
