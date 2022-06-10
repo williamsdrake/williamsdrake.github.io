@@ -28,16 +28,12 @@ To determine how the innate and adaptive immune system responds to bacterial and
 ## <i class="fas fa-laptop-medical"></i> Oral barrier composition in health and disease
 {% capture text %}
 We employ a systems biology approach to better understand homeostasis at the oral barrier, and importantly, how homeostasis is disrupted in inflammatory disease (periodontitis).
-Using a combination of single-cell RNA sequencing, histology and flow cytometry, we have identified:  
-- stromal cells are defined by inflammatory signatures in health which are exacerbated in disease
-- novel stromal-immune interactions that potentially drive oral mucosal inflammation in disease  
-
-We are actively working to improve our understanding of these potential interactions at the protein and RNA level. 
+We are actively working to expand our understanding of processes that govern disease using a combination of next generation single cell and histology approaches. 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/atlasGA_transp.png"
+  image="images/research_omics.png"
   link=""
   headline=""
   text=text
