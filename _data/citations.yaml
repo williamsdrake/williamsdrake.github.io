@@ -15,9 +15,7 @@
   date: '2022-05-22'
   link: https://doi.org/gp9tkn
   tags:
-  - MRONJ
-  - periodontitis
-  - bone
+  - inflammation
   - phd
   image: images/jbmr.svg
 - id: doi:10.1016/j.bbrc.2022.02.088
@@ -30,9 +28,7 @@
   date: '2022-05-21'
   link: https://doi.org/gp9tkp
   tags:
-  - extracellular vesicle
-  - damage
-  - IL36
+  - inflammation
   - phd
   image: images/bbrc.svg
 - id: doi:10.1038/s41368-022-00166-4
@@ -54,8 +50,7 @@
   date: '2022-03-22'
   link: https://doi.org/gps8wq
   tags:
-  - MRONJ
-  - microbiome
+  - inflammation
   - phd
   image: images/ijos.svg
   extra-links:
@@ -290,10 +285,7 @@
   link: https://doi.org/gntwvp
   image: images/jdr.svg
   tags:
-  - MRONJ
-  - microbiome
-  - periodontitis
-  - bone
+  - inflammation
   - phd
   extra-links:
   - type: preprint
@@ -365,10 +357,7 @@
   link: https://doi.org/gntwvq
   image: images/mra.svg
   tags:
-  - K mycobacteriophage
-  - sequencing
-  - resource
-  - pre-doc
+  - other
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328665/
@@ -395,9 +384,7 @@
   link: https://doi.org/gntwvr
   image: images/ajp.svg
   tags:
-  - MRONJ
-  - periodontitis
-  - bone
+  - inflammation
   - phd
   extra-links:
   - type: preprint
@@ -426,10 +413,7 @@
   link: https://doi.org/f9n48q
   image: images/jbmr.svg
   tags:
-  - MRONJ
-  - IL36
-  - collagen
-  - bone
+  - etiology
   - phd
   extra-links:
   - type: preprint
@@ -453,10 +437,7 @@
   link: https://doi.org/gcbq4d
   image: images/agingCell.svg
   tags:
-  - aging
-  - senescence
-  - p53
-  - epigenetics
+  - etiology
   - phd
   extra-links:
   - type: preprint
@@ -485,9 +466,7 @@
   link: https://doi.org/gntwvs
   image: images/ajp.svg
   tags:
-  - MRONJ
-  - bone
-  - RANKL
+  - etiology
   - phd
   extra-links:
   - type: preprint
@@ -521,10 +500,7 @@
   link: https://doi.org/f49rtt
   image: images/joe.svg
   tags:
-  - HEMA
-  - wound healing
-  - dental pulp stem cells
-  - pre-doc
+  - other
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771400/
@@ -548,10 +524,7 @@
   link: https://doi.org/f5k99m
   image: images/joe.svg
   tags:
-  - Camphorquinone
-  - dental pulp stem cells
-  - wound healing
-  - pre-doc
+  - other
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3770841/
@@ -575,10 +548,7 @@
   link: https://doi.org/bcszws
   image: images/jdr.svg
   tags:
-  - bisphosphonate
-  - senescence
-  - oral fibroblasts
-  - pre-doc
+  - other
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144120/
