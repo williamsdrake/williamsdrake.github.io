@@ -1,15 +1,18 @@
 - id: doi:10.1002/jbmr.4614
   image: images/jbmr.svg
+  tags:
   stage: phd
   project: inflammation
 
 - id: doi:10.1016/j.bbrc.2022.02.088
   image: images/bbrc.svg
+  tags:
   stage: phd
   project: inflammation
 
 - id: doi:10.1038/s41368-022-00166-4
   image: images/ijos.svg
+  tags:
   stage: phd
   project: inflammation
   extra-links:
@@ -20,10 +23,8 @@
 - id: doi:10.1016/j.xpro.2021.100908
   image: images/starProtocols.svg
   tags:
-    - single cell isolation
-    - immunology
-    - resource
-    - post-doc
+  stage: pd
+  project: atlas
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551218/
@@ -32,12 +33,8 @@
 - id: doi:10.1016/j.cell.2021.05.013
   image: images/cell.svg
   tags:
-    - scRNA seq
-    - omics
-    - oral atlas
-    - periodontitis
-    - immunology
-    - post-doc
+  stage: pd
+  project: atlas
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359928/
@@ -73,10 +70,8 @@
 - id: doi:10.1126/science.aay5731
   image: images/science.svg
   tags:
-    - AIRE-deficiency
-    - interferonopathy
-    - immunology
-    - post-doc
+  stage: pd
+  project: hostmicro
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8326743/
@@ -104,11 +99,8 @@
   image: images/nature.svg
   date: 2020-9-23
   tags:
-    - microbiome
-    - neurodevelopment
-    - metabolite
-    - maternal-fetal
-    - post-doc
+  stage: pd
+  project: 3d
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7554197/
@@ -146,6 +138,7 @@
 
 - id: doi:10.1177/0022034520908594
   image: images/jdr.svg
+  tags:
   stage: phd
   project: inflammation
   extra-links:
@@ -158,6 +151,7 @@
 
 - id: doi:10.1128/MRA.01481-18
   image: images/mra.svg
+  tags:
   stage: other
   extra-links:
     - type: preprint
@@ -166,6 +160,7 @@
 
 - id: doi:10.1016/j.ajpath.2018.06.019
   image: images/ajp.svg
+  tags:
   stage: phd
   project: inflammation
   extra-links:
@@ -178,6 +173,7 @@
 
 - id: doi:10.1002/jbmr.2985
   image: images/jbmr.svg
+  tags:
   stage: phd
   project: etiology
   extra-links:  
@@ -187,8 +183,9 @@
 
 - id: doi:10.1111/acel.12364
   image: images/agingCell.svg
-  stage: phd
-  project: etiology
+  tags:
+  stage: other
+  project:
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4568971/
@@ -196,6 +193,7 @@
 
 - id: doi:10.1016/j.ajpath.2014.07.010
   image: images/ajp.svg
+  tags:
   stage: phd
   project: etiology
   extra-links:
@@ -217,6 +215,7 @@
 
 - id: doi:10.1016/j.joen.2013.06.004
   image: images/joe.svg
+  tags:
   stage: other
   extra-links:  
     - type: preprint
@@ -224,6 +223,7 @@
       text: PMC Full Text
 - id: doi:10.1016/j.joen.2012.09.006
   image: images/joe.svg
+  tags:
   stage: other
   extra-links:  
     - type: preprint
@@ -231,6 +231,7 @@
       text: PMC Full Text
 - id: doi:10.1177/0022034511402995
   image: images/jdr.svg
+  tags:
   stage: other
   extra-links:  
     - type: preprint
