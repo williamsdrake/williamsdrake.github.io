@@ -13,7 +13,9 @@ My graduate studies culminated in several findings in understanding the pathogen
 1. I developed and characterized a mouse model for MRONJ using a recently approved FDA treatment
 2. Using microarray, I identified a pro-inflammatory cytokine (IL-36) that is critical in osteonecrosis development
 3. In a model of ligature-induced periodontitis, I found that chronic inflammation exacerbates osteonecrosis development and results in local increases of CD3+IL23R+ cells
-4. I discovered that the indigenous oral microbiota plays a role in inflammation-induced osteonecrosis development.
+4. I discovered that the indigenous oral microbiota plays a role in inflammation-induced osteonecrosis development.  
+
+[Read my dissertation](https://www.proquest.com/openview/9653ddb435178b7d9cf158869084143d/1)
 
 {% include section.html %}
 
