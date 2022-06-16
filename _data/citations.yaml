@@ -14,9 +14,7 @@
   publisher: Journal of Bone and Mineral Research
   date: '2022-05-22'
   link: https://doi.org/gp9tkn
-  tags:
-  - inflammation
-  - phd
+  tags: null
   image: images/jbmr.svg
   stage: phd
   project: inflammation
@@ -29,9 +27,7 @@
   publisher: Biochemical and Biophysical Research Communications
   date: '2022-05-21'
   link: https://doi.org/gp9tkp
-  tags:
-  - inflammation
-  - phd
+  tags: null
   image: images/bbrc.svg
   stage: phd
   project: inflammation
@@ -53,9 +49,7 @@
   publisher: International Journal of Oral Science
   date: '2022-03-22'
   link: https://doi.org/gps8wq
-  tags:
-  - inflammation
-  - phd
+  tags: null
   image: images/ijos.svg
   extra-links:
   - type: preprint
@@ -73,15 +67,13 @@
   date: '2021-12-17'
   link: https://doi.org/gntwq7
   image: images/starProtocols.svg
-  tags:
-  - single cell isolation
-  - immunology
-  - resource
-  - post-doc
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551218/
     text: PMC Full Text
+  stage: pd
+  project: atlas
 - id: doi:10.1016/j.cell.2021.05.013
   title: Human oral mucosa cell atlas reveals a stromal-neutrophil axis regulating
     tissue immunity
@@ -103,13 +95,7 @@
   date: '2021-06-14'
   link: https://doi.org/gk9ngf
   image: images/cell.svg
-  tags:
-  - scRNA seq
-  - omics
-  - oral atlas
-  - periodontitis
-  - immunology
-  - post-doc
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359928/
@@ -141,6 +127,8 @@
   - type: press
     link: https://www.dentistrytoday.com/oral-cell-census-reveals-insight-into-periodontal-disease/
     text: Dentistry Today
+  stage: pd
+  project: atlas
 - id: doi:10.1126/science.aay5731
   title: Aberrant type 1 immunity drives susceptibility to mucosal fungal infections
   authors:
@@ -191,11 +179,7 @@
   date: '2021-01-15'
   link: https://doi.org/ghzfr2
   image: images/science.svg
-  tags:
-  - AIRE-deficiency
-  - interferonopathy
-  - immunology
-  - post-doc
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8326743/
@@ -218,6 +202,8 @@
   - type: press
     link: https://www.dentistrytoday.com/news/industrynews/item/7931-researchers-uncover-how-fungus-takes-hold-in-the-oral-cavity
     text: Dentistry Today
+  stage: pd
+  project: hostmicro
 - id: doi:10.1038/s41586-020-2745-3
   title: The maternal microbiome modulates fetal neurodevelopment in mice
   authors:
@@ -235,12 +221,7 @@
   date: '2020-09-23'
   link: https://doi.org/gj29x8
   image: images/nature.svg
-  tags:
-  - microbiome
-  - neurodevelopment
-  - metabolite
-  - maternal-fetal
-  - post-doc
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7554197/
@@ -275,6 +256,8 @@
   - type: press
     link: https://medium.com/predict/mothers-microbes-shape-the-brain-of-their-unborn-children-7872370aeda9
     text: Medium
+  stage: pd
+  project: 3d
 - id: doi:10.1177/0022034520908594
   title: Indigenous Microbiota Protects against Inflammation-Induced Osteonecrosis
   authors:
@@ -290,9 +273,7 @@
   date: '2020-02-28'
   link: https://doi.org/gntwvp
   image: images/jdr.svg
-  tags:
-  - inflammation
-  - phd
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7243424/
@@ -364,8 +345,7 @@
   date: '2019-01-10'
   link: https://doi.org/gntwvq
   image: images/mra.svg
-  tags:
-  - other
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328665/
@@ -392,9 +372,7 @@
   date: '2018-07-27'
   link: https://doi.org/gntwvr
   image: images/ajp.svg
-  tags:
-  - inflammation
-  - phd
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169128/
@@ -423,9 +401,7 @@
   date: '2016-08-27'
   link: https://doi.org/f9n48q
   image: images/jbmr.svg
-  tags:
-  - etiology
-  - phd
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5642919/
@@ -449,15 +425,13 @@
   date: '2015-07-01'
   link: https://doi.org/gcbq4d
   image: images/agingCell.svg
-  tags:
-  - etiology
-  - phd
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4568971/
     text: PMC Full Text
-  stage: phd
-  project: etiology
+  stage: other
+  project: null
 - id: doi:10.1016/j.ajpath.2014.07.010
   title: "Impaired Bone Resorption and Woven Bone Formation Are Associated with Development\
     \ of Osteonecrosis of the Jaw-Like Lesions by Bisphosphonate and Anti\u2013Receptor\
@@ -480,9 +454,7 @@
   date: '2014-11-01'
   link: https://doi.org/gntwvs
   image: images/ajp.svg
-  tags:
-  - etiology
-  - phd
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4215026/
@@ -516,8 +488,7 @@
   date: '2013-09-01'
   link: https://doi.org/f49rtt
   image: images/joe.svg
-  tags:
-  - other
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771400/
@@ -541,8 +512,7 @@
   date: '2013-01-01'
   link: https://doi.org/f5k99m
   image: images/joe.svg
-  tags:
-  - other
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3770841/
@@ -566,8 +536,7 @@
   date: '2011-03-22'
   link: https://doi.org/bcszws
   image: images/jdr.svg
-  tags:
-  - other
+  tags: null
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144120/
