@@ -18,6 +18,8 @@
   - inflammation
   - phd
   image: images/jbmr.svg
+  stage: phd
+  project: inflammation
 - id: doi:10.1016/j.bbrc.2022.02.088
   title: "Epithelial cells release IL-36\u03B1 in extracellular vesicles following\
     \ mechanical damage"
@@ -31,6 +33,8 @@
   - inflammation
   - phd
   image: images/bbrc.svg
+  stage: phd
+  project: inflammation
 - id: doi:10.1038/s41368-022-00166-4
   title: Indigenous microbiota protects development of medication-related osteonecrosis
     induced by periapical disease in mice
@@ -57,6 +61,8 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8934872/
     text: PMC Full Text
+  stage: phd
+  project: inflammation
 - id: doi:10.1016/j.xpro.2021.100908
   title: Dissociation of human oral mucosal tissue for single-cell applications
   authors:
@@ -294,6 +300,8 @@
   - type: press
     link: https://doi.org/10.1177/0022034520918536
     text: Special Edition on Oral Microbiome
+  stage: phd
+  project: inflammation
 - id: doi:10.1128/MRA.01481-18
   title: Genome Sequences of Cluster K Mycobacteriophages Deby, LaterM, LilPharaoh,
     Paola, SgtBeansprout, and Sulley
@@ -362,6 +370,7 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328665/
     text: PMC Full Text
+  stage: other
 - id: doi:10.1016/j.ajpath.2018.06.019
   title: "Removal of Pre-Existing Periodontal Inflammatory Condition before Tooth\
     \ Extraction Ameliorates Medication-Related Osteonecrosis of the Jaw\u2013Like\
@@ -393,6 +402,8 @@
   - type: press
     link: https://doi.org/10.1016/j.ajpath.2018.08.001
     text: This Month in AJP
+  stage: phd
+  project: inflammation
 - id: doi:10.1002/jbmr.2985
   title: "IL-36 Induces Bisphosphonate-Related Osteonecrosis of the Jaw-Like Lesions\
     \ in Mice by Inhibiting TGF-\u03B2-Mediated Collagen Expression"
@@ -419,6 +430,8 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5642919/
     text: PMC Full Text
+  stage: phd
+  project: etiology
 - id: doi:10.1111/acel.12364
   title: Regulation of p53 during senescence in normal human keratinocytes
   authors:
@@ -443,6 +456,8 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4568971/
     text: PMC Full Text
+  stage: phd
+  project: etiology
 - id: doi:10.1016/j.ajpath.2014.07.010
   title: "Impaired Bone Resorption and Woven Bone Formation Are Associated with Development\
     \ of Osteonecrosis of the Jaw-Like Lesions by Bisphosphonate and Anti\u2013Receptor\
@@ -484,6 +499,8 @@
   - type: cme
     link: null
     text: ASIP CME Manuscript
+  stage: phd
+  project: etiology
 - id: doi:10.1016/j.joen.2013.06.004
   title: 2-Hydroxyethyl Methacrylate Inhibits Migration of Dental Pulp Stem Cells
   authors:
@@ -505,6 +522,7 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771400/
     text: PMC Full Text
+  stage: other
 - id: doi:10.1016/j.joen.2012.09.006
   title: Camphorquinone Inhibits Odontogenic Differentiation of Dental Pulp Cells
     and Triggers Release of Inflammatory Cytokines
@@ -529,6 +547,7 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3770841/
     text: PMC Full Text
+  stage: other
 - id: doi:10.1177/0022034511402995
   title: Bisphosphonates Induce Senescence in Normal Human Oral Keratinocytes
   authors:
@@ -553,3 +572,4 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144120/
     text: PMC Full Text
+  stage: other
