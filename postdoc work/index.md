@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Current Research
 nav:
   order: 1
   tooltip: Current Research
@@ -54,4 +54,3 @@ The Moutsopoulos Lab sees several cohorts of patients that have single gene muta
   headline=""
   text=text
 %}
-
