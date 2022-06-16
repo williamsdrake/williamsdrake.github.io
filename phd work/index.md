@@ -27,7 +27,7 @@ These findings demonstrate the important role of dental health and oral microbio
 
 ### Related publications
 
-{% include list.html data="citations" component="citation" style="rich" filters="tag: phd, tag: inflammation" %}
+{% include list.html data="citations" component="citation" style="rich" filters="stage: phd, project: inflammation" %}
 
 {% include section.html %}
 
@@ -42,4 +42,4 @@ This body of work has expanded our knowledge about the pathogenesis of MRONJ and
 
 ### Related publications
 
-{% include list.html data="citations" component="citation" style="rich" filters="tag: phd, tag: etiology" %}
+{% include list.html data="citations" component="citation" style="rich" filters="stage: phd, project: etiology" %}

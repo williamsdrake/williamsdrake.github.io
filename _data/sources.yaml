@@ -1,22 +1,22 @@
 - id: doi:10.1002/jbmr.4614
   image: images/jbmr.svg
-  tags:
-    - inflammation
-    - phd
+  stage: phd
+  project: inflammation
+
 - id: doi:10.1016/j.bbrc.2022.02.088
   image: images/bbrc.svg
-  tags:
-    - inflammation
-    - phd
+  stage: phd
+  project: inflammation
+
 - id: doi:10.1038/s41368-022-00166-4
   image: images/ijos.svg
-  tags:
-    - inflammation
-    - phd
+  stage: phd
+  project: inflammation
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8934872/
       text: PMC Full Text
+
 - id: doi:10.1016/j.xpro.2021.100908
   image: images/starProtocols.svg
   tags:
@@ -28,6 +28,7 @@
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551218/
       text: PMC Full Text
+
 - id: doi:10.1016/j.cell.2021.05.013
   image: images/cell.svg
   tags:
@@ -68,6 +69,7 @@
     - type: press
       link: https://www.dentistrytoday.com/oral-cell-census-reveals-insight-into-periodontal-disease/
       text: Dentistry Today
+
 - id: doi:10.1126/science.aay5731
   image: images/science.svg
   tags:
@@ -97,6 +99,7 @@
     - type: press
       link: https://www.dentistrytoday.com/news/industrynews/item/7931-researchers-uncover-how-fungus-takes-hold-in-the-oral-cavity
       text: Dentistry Today
+
 - id: doi:10.1038/s41586-020-2745-3
   image: images/nature.svg
   date: 2020-9-23
@@ -140,11 +143,11 @@
     - type: press
       link: https://medium.com/predict/mothers-microbes-shape-the-brain-of-their-unborn-children-7872370aeda9
       text: Medium
+
 - id: doi:10.1177/0022034520908594
   image: images/jdr.svg
-  tags:
-    - inflammation
-    - phd
+  stage: phd
+  project: inflammation
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7243424/
@@ -152,19 +155,19 @@
     - type: press
       link: https://doi.org/10.1177/0022034520918536
       text: Special Edition on Oral Microbiome
+
 - id: doi:10.1128/MRA.01481-18
   image: images/mra.svg
-  tags:
-    - other
+  stage: other
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328665/
       text: PMC Full Text
+
 - id: doi:10.1016/j.ajpath.2018.06.019
   image: images/ajp.svg
-  tags:
-    - inflammation
-    - phd
+  stage: phd
+  project: inflammation
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169128/
@@ -172,29 +175,29 @@
     - type: press
       link: https://doi.org/10.1016/j.ajpath.2018.08.001
       text: This Month in AJP
+
 - id: doi:10.1002/jbmr.2985
   image: images/jbmr.svg
-  tags: 
-    - etiology
-    - phd
+  stage: phd
+  project: etiology
   extra-links:  
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5642919/
       text: PMC Full Text
+
 - id: doi:10.1111/acel.12364
   image: images/agingCell.svg
-  tags:
-    - etiology
-    - phd
+  stage: phd
+  project: etiology
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4568971/
       text: PMC Full Text
+
 - id: doi:10.1016/j.ajpath.2014.07.010
   image: images/ajp.svg
-  tags:
-    - etiology
-    - phd
+  stage: phd
+  project: etiology
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4215026/
@@ -211,26 +214,24 @@
     - type: cme
       link: 
       text: ASIP CME Manuscript
+
 - id: doi:10.1016/j.joen.2013.06.004
   image: images/joe.svg
-  tags:
-    - other
+  stage: other
   extra-links:  
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771400/
       text: PMC Full Text
 - id: doi:10.1016/j.joen.2012.09.006
   image: images/joe.svg
-  tags:
-    - other
+  stage: other
   extra-links:  
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3770841/
       text: PMC Full Text
 - id: doi:10.1177/0022034511402995
   image: images/jdr.svg
-  tags:
-    - other
+  stage: other
   extra-links:  
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144120/
