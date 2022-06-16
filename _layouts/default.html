@@ -2,8 +2,10 @@
 <html lang="en">
   {% include head.html %}
   <body>
+    <div style="height: 100%; overflow: hidden">
     {% include header.html %}
     <main>
+      <div style="height: 100%; overflow: scroll">
       {% include content.html content=content %}
     </main>
     {% include footer.html %}
