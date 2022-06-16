@@ -5,9 +5,10 @@
 @import "theme";
 @import "mixins";
 
-
 header {
-  display: flex;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
