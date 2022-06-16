@@ -7,13 +7,12 @@
 
 
 header {
-  position: sticky;
-  top: 0;
+  position: fixed;
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  padding: 5px;
+  padding: 10px;
   color: $white;
   background: $black;
   box-shadow: $shadow;
