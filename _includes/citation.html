@@ -44,7 +44,7 @@
 
     {%- assign authors = citation.authors | default: emptyarray -%}
     <div
-      class="citation_authors {% if rich %}truncate{% endif %}"
+      class="citation_authors"
       {% if rich %}tabindex="0"{% endif %}
     >
       {{ authors | join: ", " }}
