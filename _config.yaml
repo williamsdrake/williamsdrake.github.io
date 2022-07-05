@@ -15,6 +15,9 @@ links:
   google-scholar: 6SmnW4IAAAA
   github: williamsdrake
   twitter: drake_dds
+  
+twitter:
+  username: drake_dds
 
 ### advanced settings
 
@@ -64,6 +67,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
   # - jekyll-github-metadata
   # - jekyll-avatar
   # - jekyll-gist
