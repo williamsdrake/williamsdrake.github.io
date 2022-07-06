@@ -30,7 +30,7 @@
   tags: null
   image: images/bbrc.svg
   stage: phd
-  project: inflammation
+  project: etiology
 - id: doi:10.1038/s41368-022-00166-4
   title: Indigenous microbiota protects development of medication-related osteonecrosis
     induced by periapical disease in mice
