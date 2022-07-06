@@ -3,6 +3,7 @@
   tags:
   stage: pd
   project: hostmicro
+  type: perspective
 
 - id: doi:10.1002/jbmr.4614
   image: images/jbmr.svg
