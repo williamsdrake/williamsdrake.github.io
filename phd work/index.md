@@ -33,7 +33,7 @@ These findings demonstrate the important role of dental health and oral microbio
 
 {% include section.html %}
 
-## <i class="fas fa-bacteria"></i>Mechanistic study of osteonecrosis development and etiology
+## <i class="fas fa-bone"></i>Mechanistic study of osteonecrosis development and etiology
 
 The etiopathogenesis of an oral disease called medication-related osteonecrosis of the jaw (MRONJ) has been difficult to understand since its first report in 2003. In this project, We: 
 - showed for the first time that bisphosphonates (BP) induce senescence in normal human oral keratinocytes but not fibroblasts, which instead undergo apoptosis at clinical levels of BP treatment
