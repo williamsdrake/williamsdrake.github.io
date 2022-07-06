@@ -1,5 +1,18 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1126/sciimmunol.abp8632
+  title: Regional specification of oral mucosal immunity
+  authors:
+  - Drake W. Williams
+  - George Hajishengallis
+  - Niki M. Moutsopoulos
+  publisher: Science Immunology
+  date: '2022-06-24'
+  link: https://doi.org/gqf97b
+  image: images/scienceImmunology.svg
+  tags: null
+  stage: pd
+  project: hostmicro
 - id: doi:10.1002/jbmr.4614
   title: "Long\u2010term ligature\u2010induced periodontitis exacerbates development\
     \ of bisphosphonate\u2010related osteonecrosis of the jaw in mice"
