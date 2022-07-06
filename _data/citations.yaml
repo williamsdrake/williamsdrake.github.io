@@ -13,6 +13,7 @@
   tags: null
   stage: pd
   project: hostmicro
+  type: perspective
 - id: doi:10.1002/jbmr.4614
   title: "Long\u2010term ligature\u2010induced periodontitis exacerbates development\
     \ of bisphosphonate\u2010related osteonecrosis of the jaw in mice"
