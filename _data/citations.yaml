@@ -32,6 +32,10 @@
   image: images/jbmr.svg
   stage: phd
   project: inflammation
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9386631/
+    text: PMC Full Tex
 - id: doi:10.1016/j.bbrc.2022.02.088
   title: "Epithelial cells release IL-36\u03B1 in extracellular vesicles following\
     \ mechanical damage"
@@ -45,6 +49,10 @@
   image: images/bbrc.svg
   stage: phd
   project: etiology
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9406235/
+    text: PMC Full Text
 - id: doi:10.1038/s41368-022-00166-4
   title: Indigenous microbiota protects development of medication-related osteonecrosis
     induced by periapical disease in mice
