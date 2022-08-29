@@ -10,12 +10,20 @@
   tags:
   stage: phd
   project: inflammation
+  extra-links:
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9386631/
+      text: PMC Full Text
 
 - id: doi:10.1016/j.bbrc.2022.02.088
   image: images/bbrc.svg
   tags:
   stage: phd
   project: etiology
+  extra-links:
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9406235/
+      text: PMC Full Text
 
 - id: doi:10.1038/s41368-022-00166-4
   image: images/ijos.svg
