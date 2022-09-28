@@ -1,5 +1,65 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1177/00220345221110768
+  title: A Roadmap for the Human Oral and Craniofacial Cell Atlas
+  authors:
+  - A.J. Caetano
+  - I. Sequeira
+  - K.M. Byrd
+  - A. Caetano
+  - P. Sharpe
+  - A.A. Volponi
+  - V. Yianni
+  - M. Bush
+  - L.K. McKay
+  - S. Wallet
+  - M.A. Shazib
+  - A. Kimple
+  - K.M. Byrd
+  - Q. Easter
+  - T. Weaver
+  - I. Sequeira
+  - R. Kumar
+  - D. Pereira
+  - J. Macken
+  - F. Fortune
+  - M. Efremova
+  - S. Teichmann
+  - K. Kretzschmar
+  - E. Todres
+  - D. Boffelli
+  - James S. Hagood
+  - O. Klein
+  - R. Boucher
+  - S. Lwin
+  - T. Pranzatelli
+  - P. Beachy
+  - W.J. Lu
+  - I. Miller Zmora
+  - N. Moutsopoulos
+  - D.W. Williams
+  - S. Pringle
+  - J. Krivanek
+  - B.M. Warner
+  - P. Perez
+  - A. Opasawatchai
+  - B. Matuck
+  - M. Freire
+  - P.R. Tata
+  - C.D. Conde
+  - M. Haniffa
+  - A.O. Pisco
+  - F. Momen-Heravi
+  - Y. Kapila
+  - A. Gulati
+  - ' '
+  publisher: Journal of Dental Research
+  date: '2022-09-26'
+  link: https://doi.org/gqwrsk
+  image: images/jdr.svg
+  tags: null
+  stage: pd
+  project: inflammation
 - id: doi:10.1126/sciimmunol.abp8632
   title: Regional specification of oral mucosal immunity
   authors:
