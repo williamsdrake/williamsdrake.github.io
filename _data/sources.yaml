@@ -2,7 +2,7 @@
   image: images/jdr.svg
   tags:
   stage: pd
-  project: inflammation
+  project: atlas
 
 - id: doi:10.1126/sciimmunol.abp8632
   image: images/scienceImmunology.svg
