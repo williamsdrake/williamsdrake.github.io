@@ -35,7 +35,7 @@
   extra-links:
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9386631/
-    text: PMC Full Tex
+    text: PMC Full Text
 - id: doi:10.1016/j.bbrc.2022.02.088
   title: "Epithelial cells release IL-36\u03B1 in extracellular vesicles following\
     \ mechanical damage"
