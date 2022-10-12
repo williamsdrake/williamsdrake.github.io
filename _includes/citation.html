@@ -78,9 +78,20 @@
   
   {%- if rich -%}
   {%- assign id = citation.id -%}
+  <div>
+    
   <span class="__dimensions_badge_embed__" data-doi="{{ id | remove_first: 'doi:' }}" data-style="small_circle"></span>
   <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="{{ id | remove_first: 'doi:' }}" data-hide-no-mentions="true" class="altmetric-embed"></div>
-  {%- endif -%}
-  
+          <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="{{ id | remove_first: 'doi:' }}"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+
+  </div>
+    {%- endif -%}
 </div>
