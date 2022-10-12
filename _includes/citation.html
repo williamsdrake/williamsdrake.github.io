@@ -75,9 +75,10 @@
       </div>
     {%- endif -%}
   </div>
+  
   {%- if rich -%}
   {%- assign id = citation.id -%}
-  <span class="__dimensions_badge_embed__" data-doi={{ id | remove_first: 'doi:' }} data-style="large_circle"></span>
+  <span class="__dimensions_badge_embed__" data-doi="{{ id | remove_first: 'doi:' }}" data-style="large_circle"></span>
   <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
   
   {%- endif -%}
