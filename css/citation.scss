@@ -63,13 +63,11 @@
     }
   }
 .citation_badge {
-    width: 120px;
     height: 120px;
     max-width: 100%;
     margin-left: 40px;
     flex-shrink: 0;
     overflow: hidden;
-    box-shadow: $shadow;
 
   }
   @media (max-width: $phone) {
