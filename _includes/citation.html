@@ -76,10 +76,10 @@
     {%- endif -%}
   </div>
   {%- if rich -%}
-  <div class = "citation_badge"
+  {%- assign id = citation.id -%}
   <span class="__dimensions_badge_embed__" data-doi=id data-style="small_circle"></span>
   <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-  </div>
+  <div data-badge-popover="right" data-badge-type="medium-donut" data-doi=id data-hide-no-mentions="true" class="altmetric-embed"></div>
   {%- endif -%}
   
 </div>
