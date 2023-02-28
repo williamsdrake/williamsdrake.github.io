@@ -1,7 +1,7 @@
 ---
 title: PhD Work
 nav:
-  order: 2
+  order: 3
   tooltip: PhD Projects
 ---
 

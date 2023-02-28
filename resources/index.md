@@ -1,7 +1,7 @@
 ---
 title: Resources
 nav:
-  order: 3
+  order: 4
   tooltip: Datasets, protocols, and more
 ---
 
