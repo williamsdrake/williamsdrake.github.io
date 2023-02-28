@@ -1,5 +1,26 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1101/2023.02.15.528712
+  title: The maternal microbiome promotes placental development in mice
+  authors:
+  - Geoffrey N. Pronovost
+  - Sahil S. Telang
+  - Angela S. Chen
+  - Elena J.L. Coley
+  - Helen E. Vuong
+  - Drake W. Williams
+  - Kristie B. Yu
+  - Tomiko K. Rendon
+  - Jorge Paramo
+  - Reuben H. Kim
+  - Elaine Y. Hsiao
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-02-15'
+  link: https://doi.org/grvc4p
+  image: images/biorxiv.png
+  tags: null
+  stage: pd
+  project: collab
 - id: doi:10.1177/00220345221110768
   title: A Roadmap for the Human Oral and Craniofacial Cell Atlas
   authors:
@@ -339,7 +360,7 @@
     link: https://medium.com/predict/mothers-microbes-shape-the-brain-of-their-unborn-children-7872370aeda9
     text: Medium
   stage: pd
-  project: 3d
+  project: collab
 - id: doi:10.1177/0022034520908594
   title: Indigenous Microbiota Protects against Inflammation-Induced Osteonecrosis
   authors:
