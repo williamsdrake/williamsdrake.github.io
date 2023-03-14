@@ -25,7 +25,7 @@ I am a dentist scientist with interest in host-microbe interactions and oral bar
 {% capture text %}
 The relationship between the host and microbiota in barrier mucosal tissues is delicate and requires communication between microbes and host cells to initiate, adapt, and terminate responses in a manner that protects the host from infection and allows beneficial microbes to survive and thrive. I am interested in understanding what governs host-microbe communication in health and disease at the oral barrier.
 
-[Read more](research)
+[Read more](postdoc work)
 {:.center}
 {% endcapture %}
 
