@@ -4,7 +4,7 @@
   stage: pd
   project: hostmicro
   extra-links:
-    - type: news
+    - type: cme
       link: https://mskcc.cloud-cme.com/course/courseoverview?P=0&EID=42816
       text: MSK CME
     - type: video
