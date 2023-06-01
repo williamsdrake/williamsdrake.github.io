@@ -21,6 +21,10 @@
   tags: null
   stage: pd
   project: collab
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9948959
+    text: PMC Full Text
 - id: doi:10.1177/00220345221110768
   title: A Roadmap for the Human Oral and Craniofacial Cell Atlas
   authors:
@@ -81,6 +85,10 @@
   tags: null
   stage: pd
   project: atlas
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9516614
+    text: PMC Full Text
 - id: doi:10.1126/sciimmunol.abp8632
   title: Regional specification of oral mucosal immunity
   authors:
