@@ -1,5 +1,37 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: pubmed:37261457
+  title: Neutrophil extracellular traps and extracellular histones potentiate IL-17
+    inflammation in periodontitis.
+  authors:
+  - Tae Sung Kim
+  - Lakmali M Silva
+  - Vasileios Ionas Theofilou
+  - Teresa Greenwell-Wild
+  - Lu Li
+  - Drake Winslow Williams
+  - Tomoko Ikeuchi
+  - Laurie Brenchley
+  - ' '
+  - Thomas H Bugge
+  - Patricia I Diaz
+  - Mariana J Kaplan
+  - Carmelo Carmona-Rivera
+  - Niki M Moutsopoulos
+  publisher: The Journal of experimental medicine
+  date: '2023-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37261457
+  image: images/jem.svg
+  tags: null
+  stage: pd
+  project: hostmicro
+  extra-links:
+  - type: news
+    link: https://mskcc.cloud-cme.com/course/courseoverview?P=0&EID=42816
+    text: MSK CME
+  - type: video
+    link: https://www.youtube.com/watch?v=W4zU04S55ps
+    text: Video Abstract
 - id: doi:10.1101/2023.02.15.528712
   title: The maternal microbiome promotes placental development in mice
   authors:
