@@ -1,3 +1,16 @@
+- id: doi:10.1084/jem.20221751
+  image: images/jem.svg
+  tags:
+  stage: pd
+  project: hostmicro
+  extra-links:
+    - type: news
+      link: https://mskcc.cloud-cme.com/course/courseoverview?P=0&EID=42816
+      text: MSK CME
+    - type: video
+      link: https://www.youtube.com/watch?v=W4zU04S55ps
+      text: Video Abstract
+
 - id: doi:10.1101/2023.02.15.528712
   image: images/biorxiv.svg
   tags:
