@@ -1,26 +1,26 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: pubmed:37261457
+- id: doi:10.1084/jem.20221751
   title: Neutrophil extracellular traps and extracellular histones potentiate IL-17
-    inflammation in periodontitis.
+    inflammation in periodontitis
   authors:
   - Tae Sung Kim
-  - Lakmali M Silva
+  - Lakmali M. Silva
   - Vasileios Ionas Theofilou
   - Teresa Greenwell-Wild
   - Lu Li
   - Drake Winslow Williams
   - Tomoko Ikeuchi
   - Laurie Brenchley
-  - ' '
-  - Thomas H Bugge
-  - Patricia I Diaz
-  - Mariana J Kaplan
+  - Thomas H. Bugge
+  - Patricia I. Diaz
+  - Mariana J. Kaplan
   - Carmelo Carmona-Rivera
-  - Niki M Moutsopoulos
-  publisher: The Journal of experimental medicine
+  - Niki M. Moutsopoulos
+  - ' '
+  publisher: Journal of Experimental Medicine
   date: '2023-06-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/37261457
+  link: https://doi.org/gsbrs5
   image: images/jem.png
   tags: null
   stage: pd
