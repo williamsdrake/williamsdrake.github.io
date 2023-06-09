@@ -8,23 +8,37 @@ nav:
 # <i class="fas fa-flask"></i>Core Research Areas
 
 {% include section.html %}
-## <i class="fas fa-bacteria"></i> Host-microbe interactions in the oral mucosa
+## <i class="fas fa-bacteria"></i> Probing host‑microbe interactions in the oral mucosa 
+### Antigen-specific T cell responses at the oral barrier
 {% capture text %}
-Relatively little is known how host cells respond to specific bacterial antigen and non-specific bacterial stimuli at the oral barrier.
+Broadly, we are interested in the delicate interplay between host cells and microbes in barrier tissue. Relatively little is known how host cells respond to specific bacterial antigen and non-specific bacterial stimuli at the oral barrier.
 We are generating the following tools in order to understand how antigen-specific responses to oral microbes contributes to disease pathogenesis:
 - transgenic and retrogenic mice expressing a T cell receptor that recognizes *Aggregatibacter actinomycetemcomitans (Aa)*
 - MHC tetramers that identify *Aa*-specific T cells
 
-These tools will enable:
-- understanding of antigen-specific T cell responses in the oral mucosa
-- targeted study of the role of oral microbes in peripheral disease
+We will use these tools to:
+- understand antigen-specific T cell response to oral pathogens in the oral mucosa
+- study the role of oral pathogens in peripheral disease
 
-Additionally, we will utilitze the tool development pipeline to study the role of commensal microbes in oral mucosal homeostasis and disease. 
+Additionally, we will utilize the tool development pipeline to study the role of commensal microbes in oral mucosal homeostasis and disease. 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/research_tcell.png"
+  link=""
+  headline=""
+  text=text
+%}
+
+### Improved identification of disease-associated oral microbes
+{% capture text %}
+Microbe relative abundance shifts do not necessarily indicate a causal role in disease pathogenesis. However, antibody response to microbes may better identify microbes that confer protection and/or microbes that enhance disease pathogenesis. Thus, we are applying culture-independent flow-cytometry-based bacterial/fungal cell sorting and 16S/ITS sequencing to characterize the anti-microbiota IgA/IgG repertoire in severe human periodontitis
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research_igg.png"
   link=""
   headline=""
   text=text
@@ -36,10 +50,13 @@ Additionally, we will utilitze the tool development pipeline to study the role o
 
 {% include section.html %}
 
-## <i class="fas fa-laptop-medical"></i> Oral barrier composition in health and disease
+## <i class="fas fa-laptop-medical"></i> Molecular architecture and deep immunophenotyping of the oral barrier 
 {% capture text %}
 We employ a systems biology approach to better understand homeostasis at the oral barrier, and importantly, how homeostasis is disrupted in inflammatory disease (periodontitis).
-We are actively working to expand our understanding of processes that govern disease using a combination of next generation single cell and histology approaches. 
+We are actively working to expand our understanding of processes that govern disease using a combination of next generation single cell and histology approaches, including: 
+ - spatial transcriptomics
+ - spatial proteomics
+ - multi-modal single cell sequencing 
 {% endcapture %}
 
 {%
@@ -53,6 +70,8 @@ We are actively working to expand our understanding of processes that govern dis
 ### Related publications
 
 {% include list.html data="citations" component="citation" filters="stage: pd, project: atlas" %}
+
+
 
 
 {% include section.html %}
