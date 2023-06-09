@@ -14,9 +14,11 @@ Relatively little is known how host cells respond to specific bacterial antigen 
 We are generating the following tools in order to understand how antigen-specific responses to oral microbes contributes to disease pathogenesis:
 - transgenic and retrogenic mice expressing a T cell receptor that recognizes *Aggregatibacter actinomycetemcomitans (Aa)*
 - MHC tetramers that identify *Aa*-specific T cells
+
 These tools will enable:
 - understanding of antigen-specific T cell responses in the oral mucosa
 - targeted study of the role of oral microbes in peripheral disease
+
 Additionally, we will utilitze the tool development pipeline to study the role of commensal microbes in oral mucosal homeostasis and disease. 
 {% endcapture %}
 
