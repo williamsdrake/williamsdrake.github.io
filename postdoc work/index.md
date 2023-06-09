@@ -31,6 +31,7 @@ Additionally, we will utilize the tool development pipeline to study the role of
   text=text
 %}
 
+{% include section.html %}
 ### Improved identification of disease-associated oral microbes
 {% capture text %}
 Microbe relative abundance shifts do not necessarily indicate a causal role in disease pathogenesis. However, antibody response to microbes may better identify microbes that confer protection and/or microbes that enhance disease pathogenesis. Thus, we are applying culture-independent flow-cytometry-based bacterial/fungal cell sorting and 16S/ITS sequencing to characterize the anti-microbiota IgA/IgG repertoire in severe human periodontitis
