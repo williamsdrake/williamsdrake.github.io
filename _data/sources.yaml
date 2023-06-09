@@ -4,6 +4,9 @@
   stage: pd
   project: hostmicro
   extra-links:
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236943
+      text: PMC Full Text
     - type: cme
       link: https://mskcc.cloud-cme.com/course/courseoverview?P=0&EID=42816
       text: MSK CME
