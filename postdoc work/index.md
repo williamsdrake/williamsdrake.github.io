@@ -25,7 +25,7 @@ Additionally, we will utilize the tool development pipeline to study the role of
 
 {%
   include feature.html
-  image="images/research_tcell.png"
+  image="images/research_cell.png"
   link=""
   headline=""
   text=text
