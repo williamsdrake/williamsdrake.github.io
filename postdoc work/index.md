@@ -11,14 +11,18 @@ nav:
 ## <i class="fas fa-bacteria"></i> Host-microbe interactions in the oral mucosa
 {% capture text %}
 Relatively little is known how host cells respond to specific bacterial antigen and non-specific bacterial stimuli at the oral barrier.
-To determine how the innate and adaptive immune system responds to bacterial and fungal stimuli, we are:  
-- using flow-cytometry-based bacterial/fungal cell sorting and 16S/ITS sequencing to characterize taxa-specific coating of the oral microbiota with immunoglobulin 
-- developing tools to assess T-cell specific responses to known oral pathogens
+We are generating the following tools in order to understand how antigen-specific responses to oral microbes contributes to disease pathogenesis:
+- transgenic and retrogenic mice expressing a T cell receptor that recognizes *Aggregatibacter actinomycetemcomitans (Aa)*
+- MHC tetramers that identify *Aa*-specific T cells
+These tools will enable:
+- understanding of antigen-specific T cell responses in the oral mucosa
+- targeted study of the role of oral microbes in peripheral disease
+Additionally, we will utilitze the tool development pipeline to study the role of commensal microbes in oral mucosal homeostasis and disease. 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/placeholder.svg"
+  image="images/research_tcell.png"
   link=""
   headline=""
   text=text
