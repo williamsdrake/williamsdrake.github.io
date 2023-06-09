@@ -9,6 +9,7 @@ nav:
 
 {% include section.html %}
 ## <i class="fas fa-bacteria"></i> Probing host‑microbe interactions in the oral mucosa 
+{% include section.html %}
 ### Antigen-specific T cell responses at the oral barrier
 {% capture text %}
 Broadly, we are interested in the delicate interplay between host cells and microbes in barrier tissue. Relatively little is known how host cells respond to specific bacterial antigen and non-specific bacterial stimuli at the oral barrier.
@@ -25,7 +26,7 @@ Additionally, we will utilize the tool development pipeline to study the role of
 
 {%
   include feature.html
-  image="images/research_cell.png"
+  image="images/research_tcell.png"
   link=""
   headline=""
   text=text
