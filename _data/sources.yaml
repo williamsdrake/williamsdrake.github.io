@@ -81,6 +81,12 @@
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551218/
       text: PMC Full Text
 
+- id: doi:10.1126/science.abi8835
+  image: images/science.svg
+  tags: Technical Response
+  stage: pd
+  project: hostmicro
+
 - id: doi:10.1016/j.cell.2021.05.013
   image: images/cell.svg
   tags:
