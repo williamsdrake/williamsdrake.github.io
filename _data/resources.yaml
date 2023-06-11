@@ -40,7 +40,7 @@
   description: This is a read-only version of my academic CV made in LaTeX. Modify it to create your own easily modified CV!
   repo: 
 
-- name: Lab website
+- name: Lab website template
   group: more
   image: images/website.jpg
   link: https://github.com/greenelab/lab-website-template
