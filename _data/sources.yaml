@@ -83,7 +83,7 @@
 
 - id: doi:10.1126/science.abi8835
   image: images/science.svg
-  tags: Technical Response
+  tags:
   stage: pd
   project: hostmicro
 
