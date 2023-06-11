@@ -46,8 +46,8 @@ search:
 
 orcid:
   icon: fab fa-orcid
-  text: ORCID
-  tooltip: ORCID
+  text: ORCiD
+  tooltip: ORCiD
   link: https://orcid.org/$LINK
 
 google-scholar:
