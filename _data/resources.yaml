@@ -37,12 +37,12 @@
   group: more
   image: images/overleaf.jpg
   link: https://www.overleaf.com/read/gptprjgkgzvq
-  description: This is a read-only version of my academic CV, including source and compiled documents. Feel free to modify it to create your own CV!
+  description: This is a read-only version of my academic CV, including source and compiled documents. Modify it to create your own easily modified CV!
   repo: 
 
 - name: Lab website
   group: more
   image: images/website.jpg
   link: https://github.com/greenelab/lab-website-template
-  description: An incredible template from Greene Lab used to make this website. Fork on github (williamsdrake/williamsdrake.github.io)!
+  description: An incredible template from Greene Lab used to make this website. Fork on github (williamsdrake/ williamsdrake.github.io)!
   repo: 
