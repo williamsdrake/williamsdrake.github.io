@@ -37,7 +37,7 @@
   group: more
   image: images/overleaf.jpg
   link: https://www.overleaf.com/read/gptprjgkgzvq
-  description: This is a read-only version of my academic CV made in LaTeX. Modify it to create your own easily modified CV!
+  description: This is a read-only version of my academic CV made in LaTeX. Download to create your own easily modified CV!
   repo: 
 
 - name: Lab website template
