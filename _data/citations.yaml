@@ -220,6 +220,60 @@
     text: PMC Full Text
   stage: pd
   project: atlas
+- id: doi:10.1126/science.abi8835
+  title: "Response to Comments on \u201CAberrant type 1 immunity drives susceptibility\
+    \ to mucosal fungal infections\u201D"
+  authors:
+  - Timothy J. Break
+  - Vasileios Oikonomou
+  - Nicolas Dutzan
+  - Jigar V. Desai
+  - Marc Swidergall
+  - Tilo Freiwald
+  - Daniel Chauss
+  - Oliver J. Harrison
+  - Julie Alejo
+  - Drake W. Williams
+  - Stefania Pittaluga
+  - Chyi-Chia R. Lee
+  - Nicolas Bouladoux
+  - Muthulekha Swamydas
+  - Kevin W. Hoffman
+  - Teresa Greenwell-Wild
+  - Vincent M. Bruno
+  - Lindsey B. Rosen
+  - Wint Lwin
+  - Andy Renteria
+  - Sergio M. Pontejo
+  - John P. Shannon
+  - Ian A. Myles
+  - Peter Olbrich
+  - "Elise M. N. Ferr\xE9"
+  - Monica Schmitt
+  - Daniel Martin
+  - Daniel L. Barber
+  - Norma V. Solis
+  - Luigi D. Notarangelo
+  - David V. Serreze
+  - Mitsuru Matsumoto
+  - Heather D. Hickman
+  - Philip M. Murphy
+  - Mark S. Anderson
+  - Jean K. Lim
+  - Steven M. Holland
+  - Scott G. Filler
+  - Behdad Afzali
+  - Yasmine Belkaid
+  - Niki M. Moutsopoulos
+  - Michail S. Lionakis
+  - ' '
+  publisher: Science
+  date: '2021-09-17'
+  link: https://doi.org/gsb5np
+  image: images/science.svg
+  tags: null
+  stage: pd
+  project: hostmicro
 - id: doi:10.1016/j.cell.2021.05.013
   title: Human oral mucosa cell atlas reveals a stromal-neutrophil axis regulating
     tissue immunity
