@@ -45,4 +45,4 @@
   image: images/website.jpg
   link: https://github.com/greenelab/lab-website-template
   description: This is an incredible template from Greene Lab that I used to make this website, with some significant modifications. The code for this website is open source, so feel free to fork it on github!
-  repo: williamsdrake/williamsdrake.github.io
+  repo: "williamsdrake/williamsdrake.github.io"
