@@ -94,9 +94,9 @@ linkedin:
   
 dimensions:
   icon: fas fa-university
-  text: LinkedIn
-  tooltip: LinkedIn
-  link: https://app.dimensions.ai/details/entities/publication/author/ur.$LINK
+  text: Dimensions
+  tooltip: Dimensions
+  link: https://app.dimensions.ai/details/entities/publication/author/$LINK
 
 # publications
 
