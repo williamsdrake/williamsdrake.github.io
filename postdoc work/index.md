@@ -48,7 +48,7 @@ Thus, we are applying culture-independent flow-cytometry-based oral microbe cell
   text=text
 %}
 
-### Related publications
+### Host-Microbe publications
 
 {% include list.html data="citations" component="citation" filters="stage: pd, project: hostmicro" %}
 
@@ -71,7 +71,7 @@ We are actively working to expand our understanding of processes that govern dis
   text=text
 %}
 
-### Related publications
+### Omics publications
 
 {% include list.html data="citations" component="citation" filters="stage: pd, project: atlas" %}
 
