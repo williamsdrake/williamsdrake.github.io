@@ -35,6 +35,12 @@
   - type: video
     link: https://www.youtube.com/watch?v=W4zU04S55ps
     text: Video Abstract
+  - type: press
+    link: https://doi.org/10.1038/s41584-023-01000-9
+    text: Nature Reviews Rheumatology
+  - type: press
+    link: https://doi.org/10.1084/jem.20230783
+    text: JEM Insights
 - id: doi:10.1101/2023.02.15.528712
   title: The maternal microbiome promotes placental development in mice
   authors:
