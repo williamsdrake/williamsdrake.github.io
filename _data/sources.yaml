@@ -1,6 +1,7 @@
 - id: doi:10.1084/jem.20221751
   image: images/jem.png
   tags:
+  preprint: n
   stage: pd
   project: hostmicro
   extra-links:
@@ -23,6 +24,7 @@
 - id: doi:10.1101/2023.02.15.528712
   image: images/biorxiv.svg
   tags:
+  preprint: y
   stage: pd
   project: collab
   extra-links:
@@ -33,6 +35,7 @@
 - id: doi:10.1177/00220345221110768
   image: images/jdr.svg
   tags:
+  preprint: n
   stage: pd
   project: atlas
   extra-links:
@@ -43,6 +46,7 @@
 - id: doi:10.1126/sciimmunol.abp8632
   image: images/scienceImmunology.svg
   tags:
+  preprint: n
   stage: pd
   project: hostmicro
   type: perspective
@@ -50,6 +54,7 @@
 - id: doi:10.1002/jbmr.4614
   image: images/jbmr.svg
   tags:
+  preprint: n
   stage: phd
   project: inflammation
   extra-links:
@@ -60,6 +65,7 @@
 - id: doi:10.1016/j.bbrc.2022.02.088
   image: images/bbrc.svg
   tags:
+  preprint: n
   stage: phd
   project: etiology
   extra-links:
@@ -70,6 +76,7 @@
 - id: doi:10.1038/s41368-022-00166-4
   image: images/ijos.svg
   tags:
+  preprint: n
   stage: phd
   project: inflammation
   extra-links:
@@ -80,6 +87,7 @@
 - id: doi:10.1016/j.xpro.2021.100908
   image: images/starProtocols.svg
   tags:
+  preprint: n
   stage: pd
   project: atlas
   extra-links:
@@ -90,12 +98,14 @@
 - id: doi:10.1126/science.abi8835
   image: images/science.svg
   tags:
+  preprint: n
   stage: pd
   project: hostmicro
 
 - id: doi:10.1016/j.cell.2021.05.013
   image: images/cell.svg
   tags:
+  preprint: n
   stage: pd
   project: atlas
   extra-links:
@@ -130,9 +140,17 @@
       link: https://www.dentistrytoday.com/oral-cell-census-reveals-insight-into-periodontal-disease/
       text: Dentistry Today
 
+- id: doi:10.1101/2021.04.06.438702
+  image: images/biorxiv.svg
+  tags:
+  preprint: y
+  stage: pd
+  project: atlas
+
 - id: doi:10.1126/science.aay5731
   image: images/science.svg
   tags:
+  preprint: n
   stage: pd
   project: hostmicro
   extra-links:
@@ -162,6 +180,7 @@
   image: images/nature.svg
   date: 2020-9-23
   tags:
+  preprint: n
   stage: pd
   project: collab
   extra-links:
@@ -202,6 +221,7 @@
 - id: doi:10.1177/0022034520908594
   image: images/jdr.svg
   tags:
+  preprint: n
   stage: phd
   project: inflammation
   extra-links:
@@ -215,6 +235,7 @@
 - id: doi:10.1128/MRA.01481-18
   image: images/mra.svg
   tags:
+  preprint: n
   stage: other
   extra-links:
     - type: preprint
@@ -224,6 +245,7 @@
 - id: doi:10.1016/j.ajpath.2018.06.019
   image: images/ajp.svg
   tags:
+  preprint: n
   stage: phd
   project: inflammation
   extra-links:
@@ -237,6 +259,7 @@
 - id: doi:10.1002/jbmr.2985
   image: images/jbmr.svg
   tags:
+  preprint: n
   stage: phd
   project: etiology
   extra-links:  
@@ -247,6 +270,7 @@
 - id: doi:10.1111/acel.12364
   image: images/agingCell.svg
   tags:
+  preprint: n
   stage: other
   project:
   extra-links:
@@ -257,6 +281,7 @@
 - id: doi:10.1016/j.ajpath.2014.07.010
   image: images/ajp.svg
   tags:
+  preprint: n
   stage: phd
   project: etiology
   extra-links:
@@ -279,6 +304,7 @@
 - id: doi:10.1016/j.joen.2013.06.004
   image: images/joe.svg
   tags:
+  preprint: n
   stage: other
   extra-links:  
     - type: preprint
@@ -287,6 +313,7 @@
 - id: doi:10.1016/j.joen.2012.09.006
   image: images/joe.svg
   tags:
+  preprint: n
   stage: other
   extra-links:  
     - type: preprint
@@ -295,6 +322,7 @@
 - id: doi:10.1177/0022034511402995
   image: images/jdr.svg
   tags:
+  preprint: n
   stage: other
   extra-links:  
     - type: preprint
