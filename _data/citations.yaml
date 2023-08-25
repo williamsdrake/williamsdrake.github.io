@@ -41,6 +41,7 @@
   - type: press
     link: https://doi.org/10.1084/jem.20230783
     text: JEM Insights
+  preprint: n
 - id: doi:10.1101/2023.02.15.528712
   title: The maternal microbiome promotes placental development in mice
   authors:
@@ -66,6 +67,7 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9948959
     text: PMC Full Text
+  preprint: y
 - id: doi:10.1177/00220345221110768
   title: A Roadmap for the Human Oral and Craniofacial Cell Atlas
   authors:
@@ -130,6 +132,7 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9516614
     text: PMC Full Text
+  preprint: n
 - id: doi:10.1126/sciimmunol.abp8632
   title: Regional specification of oral mucosal immunity
   authors:
@@ -144,6 +147,7 @@
   stage: pd
   project: hostmicro
   type: perspective
+  preprint: n
 - id: doi:10.1002/jbmr.4614
   title: "Long\u2010term ligature\u2010induced periodontitis exacerbates development\
     \ of bisphosphonate\u2010related osteonecrosis of the jaw in mice"
@@ -166,6 +170,7 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9386631/
     text: PMC Full Text
+  preprint: n
 - id: doi:10.1016/j.bbrc.2022.02.088
   title: "Epithelial cells release IL-36\u03B1 in extracellular vesicles following\
     \ mechanical damage"
@@ -183,6 +188,7 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9406235/
     text: PMC Full Text
+  preprint: n
 - id: doi:10.1038/s41368-022-00166-4
   title: Indigenous microbiota protects development of medication-related osteonecrosis
     induced by periapical disease in mice
@@ -209,6 +215,7 @@
     text: PMC Full Text
   stage: phd
   project: inflammation
+  preprint: n
 - id: doi:10.1016/j.xpro.2021.100908
   title: Dissociation of human oral mucosal tissue for single-cell applications
   authors:
@@ -226,6 +233,7 @@
     text: PMC Full Text
   stage: pd
   project: atlas
+  preprint: n
 - id: doi:10.1126/science.abi8835
   title: "Response to Comments on \u201CAberrant type 1 immunity drives susceptibility\
     \ to mucosal fungal infections\u201D"
@@ -280,6 +288,7 @@
   tags: null
   stage: pd
   project: hostmicro
+  preprint: n
 - id: doi:10.1016/j.cell.2021.05.013
   title: Human oral mucosa cell atlas reveals a stromal-neutrophil axis regulating
     tissue immunity
@@ -333,6 +342,32 @@
   - type: press
     link: https://www.dentistrytoday.com/oral-cell-census-reveals-insight-into-periodontal-disease/
     text: Dentistry Today
+  stage: pd
+  project: atlas
+  preprint: n
+- id: doi:10.1101/2021.04.06.438702
+  title: Single-cell atlas of human oral mucosa reveals a stromal-neutrophil axis
+    regulating tissue immunity in health and inflammatory disease
+  authors:
+  - DW Williams
+  - T Greenwell- Wild
+  - L Brenchley
+  - N Dutzan
+  - A Overmiller
+  - AP Sawaya
+  - S Webb
+  - D Martin
+  - G Hajishengallis
+  - K Divaris
+  - M Morasso
+  - M Haniffa
+  - NM Moutsopoulos
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-04-07'
+  link: https://doi.org/gsm66f
+  image: images/biorxiv.svg
+  tags: null
+  preprint: y
   stage: pd
   project: atlas
 - id: doi:10.1126/science.aay5731
@@ -410,6 +445,7 @@
     text: Dentistry Today
   stage: pd
   project: hostmicro
+  preprint: n
 - id: doi:10.1038/s41586-020-2745-3
   title: The maternal microbiome modulates fetal neurodevelopment in mice
   authors:
@@ -464,6 +500,7 @@
     text: Medium
   stage: pd
   project: collab
+  preprint: n
 - id: doi:10.1177/0022034520908594
   title: Indigenous Microbiota Protects against Inflammation-Induced Osteonecrosis
   authors:
@@ -489,6 +526,7 @@
     text: Special Edition on Oral Microbiome
   stage: phd
   project: inflammation
+  preprint: n
 - id: doi:10.1128/MRA.01481-18
   title: Genome Sequences of Cluster K Mycobacteriophages Deby, LaterM, LilPharaoh,
     Paola, SgtBeansprout, and Sulley
@@ -557,6 +595,7 @@
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328665/
     text: PMC Full Text
   stage: other
+  preprint: n
 - id: doi:10.1016/j.ajpath.2018.06.019
   title: "Removal of Pre-Existing Periodontal Inflammatory Condition before Tooth\
     \ Extraction Ameliorates Medication-Related Osteonecrosis of the Jaw\u2013Like\
@@ -588,6 +627,7 @@
     text: This Month in AJP
   stage: phd
   project: inflammation
+  preprint: n
 - id: doi:10.1002/jbmr.2985
   title: "IL-36 Induces Bisphosphonate-Related Osteonecrosis of the Jaw-Like Lesions\
     \ in Mice by Inhibiting TGF-\u03B2-Mediated Collagen Expression"
@@ -614,6 +654,7 @@
     text: PMC Full Text
   stage: phd
   project: etiology
+  preprint: n
 - id: doi:10.1111/acel.12364
   title: Regulation of p53 during senescence in normal human keratinocytes
   authors:
@@ -638,6 +679,7 @@
     text: PMC Full Text
   stage: other
   project: null
+  preprint: n
 - id: doi:10.1016/j.ajpath.2014.07.010
   title: "Impaired Bone Resorption and Woven Bone Formation Are Associated with Development\
     \ of Osteonecrosis of the Jaw-Like Lesions by Bisphosphonate and Anti\u2013Receptor\
@@ -679,6 +721,7 @@
     text: ASIP CME Manuscript
   stage: phd
   project: etiology
+  preprint: n
 - id: doi:10.1016/j.joen.2013.06.004
   title: 2-Hydroxyethyl Methacrylate Inhibits Migration of Dental Pulp Stem Cells
   authors:
@@ -700,6 +743,7 @@
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771400/
     text: PMC Full Text
   stage: other
+  preprint: n
 - id: doi:10.1016/j.joen.2012.09.006
   title: Camphorquinone Inhibits Odontogenic Differentiation of Dental Pulp Cells
     and Triggers Release of Inflammatory Cytokines
@@ -724,6 +768,7 @@
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3770841/
     text: PMC Full Text
   stage: other
+  preprint: n
 - id: doi:10.1177/0022034511402995
   title: Bisphosphonates Induce Senescence in Normal Human Oral Keratinocytes
   authors:
@@ -748,3 +793,4 @@
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144120/
     text: PMC Full Text
   stage: other
+  preprint: n
