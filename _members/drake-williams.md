@@ -10,6 +10,7 @@ aliases:
   - D. Williams
   - D.W. Williams
   - Drake W Williams
+  - DW Williams
 links:
   email: drakewilliams@gmail.com
 ---
