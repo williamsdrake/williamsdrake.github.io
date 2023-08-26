@@ -141,6 +141,7 @@ cme:
   text: Continuing Medical Education
   tooltip: CME
   link: $LINK
+  
 podcast:
   icon: fas fa-podcast
   text: Podcast
