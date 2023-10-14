@@ -1,5 +1,41 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1126/sciadv.adk1887
+  title: The maternal microbiome promotes placental development in mice
+  authors:
+  - Geoffrey N. Pronovost
+  - Kristie B. Yu
+  - "Elena J.\_L. Coley-O\u2019Rourke"
+  - Sahil S. Telang
+  - Angela S. Chen
+  - Helen E. Vuong
+  - Drake W. Williams
+  - Anisha Chandra
+  - Tomiko K. Rendon
+  - Jorge Paramo
+  - Reuben H. Kim
+  - Elaine Y. Hsiao
+  publisher: Science Advances
+  date: '2023-10-06'
+  link: https://doi.org/gstzjd
+  image: images/sciadv.svg
+  tags: null
+  preprint: n
+  stage: pd
+  project: collab
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10558122/
+    text: PMC Full Text
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2023.02.15.528712v1
+    text: Preprint - bioRxiv
+  - type: press
+    link: https://www.nature.com/articles/d41586-023-03105-3
+    text: Nature Research Highlight
+  - type: press
+    link: https://newsroom.ucla.edu/releases/mice-need-diverse-gut-microbiome-to-form-healthy-placentas
+    text: UCLA Newsroom
 - id: doi:10.1084/jem.20221751
   title: Neutrophil extracellular traps and extracellular histones potentiate IL-17
     inflammation in periodontitis
