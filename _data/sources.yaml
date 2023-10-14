@@ -1,3 +1,23 @@
+- id: doi:10.1126/sciadv.adk1887
+  image: images/sciadv.svg
+  tags:
+  preprint: n
+  stage: pd
+  project: collab
+  extra-links:
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10558122/
+      text: PMC Full Text
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/2023.02.15.528712v1
+      text: Preprint - bioRxiv
+    - type: press
+      link: https://www.nature.com/articles/d41586-023-03105-3
+      text: Nature Research Highlight
+    - type: press
+      link: https://newsroom.ucla.edu/releases/mice-need-diverse-gut-microbiome-to-form-healthy-placentas
+      text: UCLA Newsroom
+
 - id: doi:10.1084/jem.20221751
   image: images/jem.png
   tags:
